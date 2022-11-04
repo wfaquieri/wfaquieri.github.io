@@ -4,7 +4,7 @@ Nesse post vamos descobrir como transformar dados de arquivos em PDF para uma ta
 
 Para tal, vamos (i) ler os dados do [edital do concurso público da PETROBRAS][edital-url], de 12/2021, com o objetivo de obter as disciplinas para o cargo de Cientista de Dados, (ii) arrumar os dados (`tidy data`)  e (iii) exportar em .xlsx.
 
-![Página 35 do edital](/assets/img0.png)
+![Página 35 do edital](/img/00_post/img0.png)
 
 Começamos lendo o pdf com o pacote ‘pdftools‘ e exibimos na tela a primeira página do edital.
 
@@ -15,7 +15,7 @@ cat(txt[1])
 #=> # Exibe a primeira página do documento.
 ```
 
-![Saída gerada no console do RStudio](/assets/img1.png)
+![Saída gerada no console do RStudio](/img/00_post/img1.png)
 
 Inspecionando o edital, é possível localizar as informações desejadas nas páginas 35 e 36. Utilizando os pacotes ‘readr‘ e ‘stringr‘ transformamos cada linha do PDF em um elemento de um vetor e removemos todos os espaço extras entre as palavras. O contéudo do cargo de cientista de dados começa apenas na 28ª linha da página 35 do edital.
 
