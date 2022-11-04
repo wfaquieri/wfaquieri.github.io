@@ -1,4 +1,4 @@
-## Convertendo informações de um arquivo em PDF para o Excel com a linguagem R
+## Convertendo informações em PDF para o Excel com a linguagem R
 
 Nesse post vamos descobrir como transformar dados de arquivos em PDF para uma tabela em Excel, utilizando a linguagem R. A motivação é simples: dados disponibilizados em planilhas são muito mais fáceis de analisar e explorar.
 
@@ -77,7 +77,7 @@ tab_final = dplyr::bind_rows(tab_1, tab_2)
 
 ```
 
-Por fim, vamos acertar a primeira linha da tabela, separando o título do subtítulo. A primeira linha da tabela é `ÊNFASE 7: CIÊNCIA DE DADOS – BLOCO I: 1 Aprendizado supervisionado: Regressão e Classificação`.
+Por fim, vamos acertar a primeira linha da tabela, separando o título do subtítulo. A primeira linha da tabela é "ÊNFASE 7: CIÊNCIA DE DADOS – BLOCO I: 1 Aprendizado supervisionado: Regressão e Classificação".
 
 ```r
 title_subt = tab_final[1,1] |> dplyr::pull(value)
