@@ -8,12 +8,12 @@ Para tal, vamos (i) ler os dados do [edital do concurso público da PETROBRAS][e
 
 Começamos lendo o pdf com o pacote ‘pdftools‘ e exibimos na tela a primeira página do edital.
 
-{% highlight r %}
+```r
 edital = ("data-raw/PETROBRAS_edital_de_abertura_n_1.pdf")
 txt <- pdftools::pdf_text(pdf=edital)
 cat(txt[1]) 
 #=> # Exibe a primeira página do documento.
-{% endhighlight %}
+```
 
 ![Saída gerada no console do RStudio](/assets/img1.png)
 
@@ -30,7 +30,7 @@ ds2 = page_36[6:16] |> stringr::str_squish()
 
 A seguir, vamos transformar todos os elementos desse vetor em um único elemento, contemplando todas as linhas de interesse do pdf.
 
-{% highlight ruby %}
+```r
 n = length(ds1)
 
 init_ = paste(ds1[1], ds1[2], sep=" ")
@@ -38,19 +38,19 @@ init_ = paste(ds1[1], ds1[2], sep=" ")
 for (i in 3:n) {
   init_ = paste(init_,ds1[i], sep=" ")
 }
-{% endhighlight %}
+```
 
 O próximo passo é, novamente, separar esse vetor em diferentes elementos, porém agora com uma separação diferente. Queremos que cada disciplina seja uma linha da tabela. Nos aproximamos agora do conceito ‘tidy data’ tão bem apresentado por [Hadley Wickam, 2014][paper-url].
 
-{% highlight ruby %}
+```r
 tab = init_ |> stringr::str_split("\\. ") 
 
 tab_final = tibble::as_tibble(tab[[1]])
-{% endhighlight %}
+```
 
 As linhas de código que acabamos de escrever para página 35, também devem ser repetidas para a página 36. Com apenas duas páginas não é difícil copiar e colar o código novamente, correto? Mas, e se tivéssemos que repetir esse mesmo processo de copy and paste dezenas de vezes? Nesse caso, uma forma mais eficiente é definir uma função, alterando apenas os seus parâmetros quando necessário.
 
-{% highlight ruby %}
+```r
 arrumar_dados = function(text){
   
   n = length(text)
@@ -75,11 +75,11 @@ tab_2 = arrumar_dados(text=ds2)
 
 tab_final = dplyr::bind_rows(tab_1, tab_2)
 
-{% endhighlight %}
+```
 
 Por fim, vamos acertar a primeira linha da tabela, separando o título do subtítulo. A primeira linha da tabela é `ÊNFASE 7: CIÊNCIA DE DADOS – BLOCO I: 1 Aprendizado supervisionado: Regressão e Classificação`.
 
-{% highlight ruby %}
+```r
 title_subt = tab_final[1,1] |> dplyr::pull(value)
 
 title = title_subt |> stringr::str_sub(start = 1L, end = 26L)
@@ -88,13 +88,13 @@ subtitle = title_subt |> stringr::str_sub(start = 30L, end = -1L)
 tab_final[1,1] = subtitle
 
 colnames(tab_final) = title
-{% endhighlight %}
+```
 
 Agora já podemos exportar para Excel.
 
-{% highlight ruby %}
+```r
 tab_final |> writexl::write_xlsx('Disciplinas_DS_Petrobas.xlsx')
-{% endhighlight %}
+```
 
 Com pouquíssimas linhas de código, extraímos informações relevantes de um PDF, organizamos nossos dados e exportamos para Excel.
 
