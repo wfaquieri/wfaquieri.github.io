@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Aprender e compartilhar são as duas palavras que melhor definem a finalidade do Rstats.py.
 
-Maybe say a some things about yourself.
+O estudo contínuo nos leva a excelência. E não há melhor forma de aprender do que ensinando.
 
-Or maybe what you plan to blog about.
+Já dizia Rui Barbosa, embora a leitura e o estudo sejam práticas vulgarizadas na nossa socidade, o mesmo não se pode dizer do ato de reflexão sobre o conteúdo estudo. "Vulgar é o ler, raro o refletir. Mas, os que madrugam no ler, convém madrugarem também no pensar." 
