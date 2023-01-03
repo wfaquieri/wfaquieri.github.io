@@ -1,8 +1,8 @@
 ## Convertendo informações em PDF para o Excel com a linguagem R
 
-Nesse post vamos descobrir como transformar dados de arquivos em PDF para uma tabela em Excel, utilizando a linguagem R. A motivação é simples: dados disponibilizados em planilhas são muito mais fáceis de analisar e explorar.
+Nesse post vamos descobrir como transformar dados de arquivos em PDF para uma tabela em Excel, utilizando a linguagem R. A motivação é simples: dados disponibilizados em planilhas são muito mais fáceis de analisar e explorar. Além disso, a abundância de informações geradas na atualidade exige do especialista em dados uma capacidade de explorar e tratar os mais diferentes tipos e formatos, na qual os dados são disponibilizados na web. No mundo real, a gente nunca sabe como esses dados vão chegar do cliente!
 
-Para tal, vamos (i) ler os dados do [edital do concurso público da PETROBRAS][edital-url], de 12/2021, com o objetivo de obter as disciplinas para o cargo de Cientista de Dados, (ii) arrumar os dados (`tidy data`)  e (iii) exportar em .xlsx.
+Recentemente, a PETROBRAS divulgou o edital do seu concurso público, em pdf, onde um dos cargos é Ciência de Dados. Para exemplificar, vamos utilizar justamente esse pdf. Nosso objetivo aqui é (i) ler os dados do [edital do concurso público da PETROBRAS][edital-url], de 12/2021, com o objetivo de obter as disciplinas para o cargo de Cientista de Dados, (ii) arrumar os dados (`tidy data`)  e (iii) exportar em .xlsx.
 
 ![Página 35 do edital](/img/00_post/img0.png)
 
@@ -97,6 +97,12 @@ tab_final |> writexl::write_xlsx('Disciplinas_DS_Petrobas.xlsx')
 ```
 
 Com pouquíssimas linhas de código, extraímos informações relevantes de um PDF, organizamos nossos dados e exportamos para Excel.
+
+![Resultado em Excel](/img/00_post/img2.png)
+
+Para finalizar, nesse post oferecemos um exemplo de como é possível transformar dados em pdf para planilhas em Excel. Há, no entanto, muitas outras possibilidades e desafios, dependendo dos dados que se deseja converter. Você pode aplicar esse tipo de problema para faturas do seu cartão de crédito e, a partir daí, ter uma maior controle financeiro, por exemplo. Na essência, o problema é o mesmo aplicado para contextos diferentes.
+
+Ainda nesse campo, uma outra coisa que faço bastante no meu trabalho utilizando a linguagem R é automatizar tarefas repetitivas que são realizadas em planilhas - reduzindo as denominadas Lesões do Esforço Repetitivo ou simplesmente LER. Muitas vezes, será necessário aplicar formatações específicas e complexas em Excel. Nesses casos, utilizo o pacote/biblioteca openxlsx.
 
 Repositório do projeto no GitHub: [pdf_to_xlsx][wfaquieri-gh] 
 
