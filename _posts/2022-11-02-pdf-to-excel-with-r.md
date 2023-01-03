@@ -2,7 +2,7 @@
 
 Nesse post vamos descobrir como transformar dados de arquivos em PDF para uma tabela em Excel, utilizando a linguagem R. A motivação é simples: dados disponibilizados em planilhas são muito mais fáceis de analisar e explorar. Além disso, a abundância de informações geradas na atualidade exige do especialista em dados uma capacidade de explorar e tratar os mais diferentes tipos e formatos, na qual os dados são disponibilizados na web. No mundo real, a gente nunca sabe como esses dados vão chegar do cliente!
 
-Recentemente, a PETROBRAS divulgou o edital do seu concurso público, em pdf, onde um dos cargos é Ciência de Dados. Para exemplificar, vamos utilizar justamente esse pdf. Nosso objetivo aqui é (i) ler os dados do [edital do concurso público da PETROBRAS][edital-url], de 12/2021, com o objetivo de obter as disciplinas para o cargo de Cientista de Dados, (ii) arrumar os dados (`tidy data`)  e (iii) exportar em .xlsx.
+Recentemente, a PETROBRAS divulgou o edital do seu concurso público, em pdf, onde um dos cargos é, justaente, Ciência de Dados. Para exemplificar, vamos utilizar esse documento em pdf. Nosso objetivo aqui é (i) ler os dados do [edital do concurso público da PETROBRAS][edital-url], de 12/2021, com o objetivo de obter as disciplinas para o cargo de Cientista de Dados, (ii) arrumar os dados (`tidy data`)  e (iii) exportar em .xlsx. Isso pode ser útil para aqueles que desejam se preparar para futuros concursos na área e organizar seus estudos em planilhas de Excel.
 
 ![Página 35 do edital](/img/00_post/img0.png)
 
@@ -48,7 +48,7 @@ tab = init_ |> stringr::str_split("\\. ")
 tab_final = tibble::as_tibble(tab[[1]])
 ```
 
-As linhas de código que acabamos de escrever para página 35, também devem ser repetidas para a página 36. Com apenas duas páginas não é difícil copiar e colar o código novamente, correto? Mas, e se tivéssemos que repetir esse mesmo processo de copy and paste dezenas de vezes? Nesse caso, uma forma mais eficiente é definir uma função, alterando apenas os seus parâmetros quando necessário.
+As linhas de código que acabamos de escrever para página 35, também devem ser repetidas para a página 36. Com apenas duas páginas não é difícil copiar e colar o código novamente, correto? Mas, e se tivéssemos que repetir esse mesmo processo de copy and paste dezenas de vezes? Nesse caso, uma forma mais eficiente é simplesmente definir uma função, alterando os seus parâmetros quando necessário.
 
 ```r
 arrumar_dados = function(text){
@@ -100,9 +100,11 @@ Com pouquíssimas linhas de código, extraímos informações relevantes de um P
 
 ![Resultado em Excel](/img/00_post/img2.png)
 
-Para finalizar, nesse post oferecemos um exemplo de como é possível transformar dados em pdf para planilhas em Excel. Há, no entanto, muitas outras possibilidades e desafios, dependendo dos dados que se deseja converter. Você pode aplicar esse tipo de problema para faturas do seu cartão de crédito e, a partir daí, ter uma maior controle financeiro, por exemplo. Na essência, o problema é o mesmo aplicado para contextos diferentes.
+### Conclusão
 
-Ainda nesse campo, uma outra coisa que faço bastante no meu trabalho utilizando a linguagem R é automatizar tarefas repetitivas que são realizadas em planilhas - reduzindo as denominadas Lesões do Esforço Repetitivo ou simplesmente LER. Muitas vezes, será necessário aplicar formatações específicas e complexas em Excel. Nesses casos, utilizo o pacote/biblioteca openxlsx.
+Nesse post oferecemos um exemplo de como é possível transformar dados em pdf para planilhas em Excel. Há, entretanto, muitas outras possibilidades e desafios, a depender da complexidade dos dados que se deseja converter. Você poderia aplicar, por exemplo, esse tipo de abordagem para faturas do seu cartão de crédito que são enviadas pelos bancos em pdf e, a partir daí, ter um maior controle financeiro sobre seus gastos. Na essência, é o mesmo tipo de problema aplicado a contextos diferentes.
+
+Uma outra atividade que realizo bastante no meu dia a dia de trabalho é automatizar tarefas repetitivas que são realizadas em planilhas - contribuindo para mitigar as denominadas Lesões do Esforço Repetitivo ou simplesmente LER. Outras vezes, será necessário aplicar formatações específicas e complexas em Excel. Nesses casos, recomendo o pacote/biblioteca openxlsx.
 
 Repositório do projeto no GitHub: [pdf_to_xlsx][wfaquieri-gh] 
 
