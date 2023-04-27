@@ -3,10 +3,10 @@ url: https://wfaquieri.github.io
 baseurl: 
 title: Portfólio de Projetos
 tagline: de Ciência de Dados
-bannerTitle: "Winicius Faquieri, Data Scientist<br /> @FGV IBRE"
-bannerTagline: Transformando dados em insights
-bannerDescription: Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
-bannerImage: images/pic10.jpg
+bannerTitle: "Winicius Faquieri"
+bannerTagline: Data Scientist @FGV IBRE
+bannerDescription: 
+bannerImage: images/profile.jpg
 bannerButton: true
 bannerButtonLink: index.html
 contactTagline: Quer trabalhar juntos em um projeto? Entre em contato!
@@ -30,5 +30,5 @@ featuretteFourthIcon: icon fa-signal
 # Contact
 email: wfaquieri@gmail.com
 phone: (21) 97630-2390
-address: "1234 Somewhere Road #8254<br />Nashville, TN 00000-0000"
+linkedin: https://www.linkedin.com/in/wfaquieri/
 github: wfaquieri
