@@ -13,19 +13,19 @@ contactTagline: Quer trabalhar juntos em um projeto? Entre em contato!
 copyright: Copyright © 2022 Winicius Faquieri
 
 # Featurette
-featuretteTitle: Erat lacinia
-featuretteFirstHighlight: Portitor ullamcorper
-featuretteFirstTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteFirstIcon: icon fa-diamond
-featuretteSecondHighlight: Sapien veroeros
-featuretteSecondTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteSecondIcon: icon fa-paper-plane
-featuretteThirdHighlight: Quam lorem ipsum
-featuretteThirdTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteThirdIcon: icon fa-rocket
-featuretteFourthHighlight: Sed magna finibus
-featuretteFourthTagline: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-featuretteFourthIcon: icon fa-signal
+featuretteTitle: Tecnologias de Análise de Dados
+featuretteFirstHighlight: Python e R
+featuretteFirstTagline: Conhecimento avançado em programação em Python e R para análise de dados, modelagem estatística e aprendizado de máquina.
+featuretteFirstIcon: icon fa-code
+featuretteSecondHighlight: Banco de Dados e SQL
+featuretteSecondTagline: Experiência em gerenciamento de bancos de dados relacionais e não relacionais, bem como em escrever consultas SQL complexas para extrair informações úteis.
+featuretteSecondIcon: icon fa-database
+featuretteThirdHighlight: Visualização de Dados
+featuretteThirdTagline: Habilidade em criar gráficos e visualizações de dados interativos para comunicar insights e resultados de análise de dados de forma eficaz.
+featuretteThirdIcon: icon fa-chart-bar
+featuretteFourthHighlight: Big Data e Nuvem
+featuretteFourthTagline: Conhecimento de ferramentas e tecnologias para lidar com grandes conjuntos de dados, incluindo Hadoop, Spark, AWS e GCP.
+featuretteFourthIcon: icon fa-cloud
 
 # Contact
 email: wfaquieri@gmail.com
