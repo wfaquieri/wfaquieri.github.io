@@ -6,6 +6,13 @@ showOnMenu: true
 ---
 
 - Data scientist na FGV IBRE, 2019-Atual.
+	- Resolução de problemas complexos utilizando Machine Learning para solucionar problemas de classificação, identificar padrões e realizar previsões com precisão;
+	- Exploração de grandes volumes de dados e obtenção de informações relevantes para a tomada de decisão.
+	- Desenvolvimento de aplicativos web para análise de dados, permitindo a visualização e interpretação dos dados de forma mais clara e intuitiva.
+	- Automatização de processos de ETL e tarefas repetitivas, aumentando a eficiência e reduzindo custos operacionais;
+	- Criação de dashboards interativos para storytelling, permitindo que as informações sejam apresentadas de forma atraente e intuitiva;
+	- Escrever documentação do projeto e gerar padrões e artefatos reutilizáveis;
+	- Apoiar tecnicamente a equipe e trabalhar em inovações para a área.
 
 - Pós-Graduação em Inteligência Artificial, Machine Learning e Deep Learning (INFNET), 2022-2023.
 	- Projeto 1: ALGORITMOS SUPERVISIONADOS PARA CLASSIFICAÇÃO
@@ -21,7 +28,7 @@ showOnMenu: true
 	- Bolsista CAPES.
 	- Publicação: Hedging Brazilian equities in the era of low interest rates: What has changed? BRAZILIAN REVIEW OF FINANCE.
 	- Publicação: Can Gaussian factor models of commodity prices capture the financialization phenomenon? THE NORTH AMERICAN JOURNAL OF ECONOMICS AND FINANCE.
-	- Research Assitent na FGV EPGE, 2017-2019.
+	- Research Assistent na FGV EPGE, 2017-2019.
 	
 - Bacharel em Ciências Econômicas (UERJ), 2010-2014.
 	- Intern na SulAmérica, 2013-2014.
