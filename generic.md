@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generic
+title: Timeline
 wideImage: images/pic11.jpg
 showOnMenu: true
 ---
