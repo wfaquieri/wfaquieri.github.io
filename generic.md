@@ -19,12 +19,12 @@ showOnMenu: true
 
 - Mestrado em Economia Aplicada com ênfase em Métodos Quantitativos (PPGCE/UERJ), 2016-2018.
 	- Bolsista CAPES.
-	- Hedging Brazilian equities in the era of low interest rates: What has changed? (BRAZILIAN REVIEW OF FINANCE)
-	- Can Gaussian factor models of commodity prices capture the financialization phenomenon? THE NORTH AMERICAN JOURNAL OF ECONOMICS AND FINANCE
+	- Publicação: Hedging Brazilian equities in the era of low interest rates: What has changed? BRAZILIAN REVIEW OF FINANCE.
+	- Publicação: Can Gaussian factor models of commodity prices capture the financialization phenomenon? THE NORTH AMERICAN JOURNAL OF ECONOMICS AND FINANCE.
 	- Research Assitent na FGV EPGE, 2017-2019.
 	
 - Bacharel em Ciências Econômicas (UERJ), 2010-2014.
 	- Intern na SulAmérica, 2013-2014.
-	- Análise evolutiva da moeda e dos sistemas monetários das sociedade primitivas à era digital - Análise do Caso Bitcoin P2P Digital Currency
+	- Monografia: Análise evolutiva da moeda e dos sistemas monetários das sociedade primitivas à era digital - Análise do Caso Bitcoin P2P Digital Currency.
 	- Selecionado para participar do Seminário de Inverno do Ordem Livre - objetivo do seminário é criar sinergia entre jovens brasileiros de talento acadêmico e perfil de liderança para fornecê-los um instrumental
 teórico capaz de ser aplicado a questões políticas e econômicas atuais.
