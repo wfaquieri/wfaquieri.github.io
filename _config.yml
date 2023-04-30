@@ -24,7 +24,7 @@ featuretteThirdHighlight: Visualização de Dados
 featuretteThirdTagline: Habilidade em criar gráficos e visualizações de dados interativos para comunicar insights e resultados de análise de dados de forma eficaz.
 featuretteThirdIcon: fa-chart-column
 featuretteFourthHighlight: Engenharia de Machine Learning
-featuretteFourthTagline: Conhecimento de ferramentas e tecnologias para criar, implementar e manter modelos de Machine Learning escaláveis e de alto desempenho. Tools: MLflow, Kedro, PyCaret, AutoML, Scikit-learn, Hugging Face.
+featuretteFourthTagline: Conhecimento de ferramentas e tecnologias para criar, implementar e manter modelos de Machine Learning escaláveis e de alto desempenho. Tools - MLflow, Kedro, PyCaret, AutoML, Scikit-learn, Hugging Face.
 featuretteFourthIcon: icon fa-gears
 
 # Contact
