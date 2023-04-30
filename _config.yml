@@ -22,7 +22,7 @@ featuretteSecondTagline: Experiência em gerenciamento de bancos de dados relaci
 featuretteSecondIcon: icon fa-database
 featuretteThirdHighlight: Visualização de Dados
 featuretteThirdTagline: Habilidade em criar gráficos e visualizações de dados interativos para comunicar insights e resultados de análise de dados de forma eficaz. Tools - ggplot2, echarts, shiny, seaborn, matplotlib, Power BI.
-featuretteThirdIcon: icon fa-chart-bar
+featuretteThirdIcon: icon fa-solid fa-chart-bar
 featuretteFourthHighlight: Engenharia de Machine Learning
 featuretteFourthTagline: Conhecimento de ferramentas e tecnologias para criar, implementar e manter modelos de Machine Learning escaláveis e de alto desempenho. Tools - MLflow, Kedro, AutoML, Hugging Face.
 featuretteFourthIcon: icon fa-gears
@@ -31,7 +31,7 @@ featuretteFifthTagline: Habilidade em comunicar os insights gerados de forma cla
 featuretteFifthIcon: icon fa-comments
 featuretteSixthHighlight: Pensamento crítico
 featuretteSixthTagline: Pensamento crítico e criativo para solucionar problemas e encontrar insights relevantes a partir dos dados.
-featuretteSixthIcon: icon fa-brain
+featuretteSixthIcon: icon fa-solid fa-brain
 featuretteSeventhHighlight: Conhecimento em negócios
 featuretteSeventhTagline: Capacidade de entendimento do negócio para qaplicar as análises e insights de forma estratégica e contribuir para o sucesso da empresa.
 featuretteSeventhIcon: icon fa-briefcase
