@@ -29,12 +29,12 @@ featuretteFourthIcon: icon fa-gears
 featuretteFifthHighlight: Comunicação
 featuretteFifthTagline: Habilidade em comunicar os insights gerados de forma clara e objetiva, para que os stakeholders possam tomar decisões com base nas análises realizadas. 
 featuretteFifthIcon: icon fa-comments
-featuretteFifthHighlight: Pensamento crítico
-featuretteFifthTagline: Pensamento crítico e criativo para solucionar problemas e encontrar insights relevantes a partir dos dados.
-featuretteFifthIcon: icon fa-brain
-featuretteFifthHighlight: Conhecimento em negócios
-featuretteFifthTagline: Capacidade de entendimento do negócio para qaplicar as análises e insights de forma estratégica e contribuir para o sucesso da empresa.
-featuretteFifthIcon: icon fa-briefcase
+featuretteSixthHighlight: Pensamento crítico
+featuretteSixthTagline: Pensamento crítico e criativo para solucionar problemas e encontrar insights relevantes a partir dos dados.
+featuretteSixthIcon: icon fa-brain
+featuretteSeventhHighlight: Conhecimento em negócios
+featuretteSeventhTagline: Capacidade de entendimento do negócio para qaplicar as análises e insights de forma estratégica e contribuir para o sucesso da empresa.
+featuretteSeventhIcon: icon fa-briefcase
 
 # Contact
 email: wfaquieri@gmail.com
