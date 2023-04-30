@@ -28,7 +28,7 @@ Recentemente, pude concluir minha pós-graduação em Inteligência Artificial, 
 	- Projeto 8: Validação De Modelos de Clusterização                                                                                            
 	- Ferramentas: Python, Tensorflow, Jupyter, Elastic Search, Pandas, NLP, Scikit-Learn, Redes Neurais, Automl, Dash, Clusterização, Svm, Plot.ly, MLflow, Kedro.
 
-Antes de iniciar minha pós-graduação, concluí meu mestrado em Economia Aplicada com ênfase em Métodos Quantitativos na PPGCE/UERJ, onde fui bolsista CAPES. Tive a oportunidade de publicar alguns artigos científicos durante esse período e, a partir do meu desempenho acadêmico recebi a oportunidade de trabalhar com pesquisa acadêmica na FGV/EPGE.
+Antes de iniciar minha pós-graduação, concluí meu mestrado em Economia Aplicada com ênfase em Métodos Quantitativos na PPGCE/UERJ, onde fui bolsista CAPES. Tive a oportunidade de publicar alguns artigos científicos durante esse período e recebi a oportunidade de trabalhar com pesquisa acadêmica na FGV/EPGE.
 - Mestrado em Economia Aplicada com ênfase em Métodos Quantitativos (PPGCE/UERJ), **2016-2018**.
 	- Bolsista CAPES.
 	- Publicação: Hedging Brazilian equities in the era of low interest rates: What has changed? BRAZILIAN REVIEW OF FINANCE.
