@@ -15,13 +15,13 @@ copyright: Copyright © 2022 Winicius Faquieri
 # Featurette
 featuretteTitle: Skills
 featuretteFirstHighlight: Python e R
-featuretteFirstTagline: Conhecimento avançado em programação em Python e R para análise de dados, modelagem estatística e aprendizado de máquina. Tools: Tidyverse, NumPy, Pandas, Scikit-learn, XGBoost, Tidymodels, PyCaret.
+featuretteFirstTagline: Conhecimento avançado em programação em Python e R para análise de dados, modelagem estatística e aprendizado de máquina. Tools - Tidyverse, NumPy, Pandas, Scikit-learn, XGBoost, Tidymodels, PyCaret.
 featuretteFirstIcon: icon fa-code
 featuretteSecondHighlight: Banco de Dados e SQL
 featuretteSecondTagline: Experiência em gerenciamento de bancos de dados relacionais e não relacionais, bem como em escrever consultas SQL complexas para extrair informações úteis. Tools - PostgreSQL, PgAdmin 4, BigQuery, SQL Server.
 featuretteSecondIcon: icon fa-database
 featuretteThirdHighlight: Visualização de Dados
-featuretteThirdTagline: Habilidade em criar gráficos e visualizações de dados interativos para comunicar insights e resultados de análise de dados de forma eficaz. Tools: ggplot2, echarts, Shiny, seaborn, matplotlib, Power BI.
+featuretteThirdTagline: Habilidade em criar gráficos e visualizações de dados interativos para comunicar insights e resultados de análise de dados de forma eficaz. Tools - ggplot2, echarts, shiny, seaborn, matplotlib, Power BI.
 featuretteThirdIcon: icon fa-chart-bar
 featuretteFourthHighlight: Engenharia de Machine Learning
 featuretteFourthTagline: Conhecimento de ferramentas e tecnologias para criar, implementar e manter modelos de Machine Learning escaláveis e de alto desempenho. Tools - MLflow, Kedro, AutoML, Hugging Face.
