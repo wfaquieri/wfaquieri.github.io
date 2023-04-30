@@ -7,13 +7,13 @@ showOnMenu: true
 
 Apresento a seguir um breve resumo de minha trajetória profissional e acadêmica.
 
-- Data scientist na FGV IBRE, **2019-Atual**.
-	- Resolução de problemas complexos utilizando Machine Learning para solucionar problemas de classificação, identificar padrões e realizar previsões com precisão;
+- Data scientist na FGV IBRE, **2019-2023 (Atual)**.
+	- Liderança em projetos de Machine Learning para solucionar problemas complexos de classificação, identificação de padrões e previsão com precisão;
 	- Exploração de grandes volumes de dados e obtenção de informações relevantes para a tomada de decisão.
 	- Desenvolvimento de aplicativos web, permitindo que os usuários de diferentes áreas tenham  acesso aos dados de forma otimizada e simplificada.
 	- Automatização de processos de ETL e tarefas repetitivas, aumentando a eficiência e reduzindo custos operacionais;
 	- Criação de dashboards interativos para storytelling, permitindo que as informações sejam apresentadas de forma atraente e intuitiva;
-	- Escrever documentação do projeto e gerar padrões e artefatos reutilizáveis;
+	- Produção de documentação detalhada de projetos e criação de padrões e artefatos reutilizáveis para garantir a consistência e escalabilidade dos projetos;
 	- Apoiar tecnicamente a equipe e trabalhar em inovações para a área.
 
 Recentemente, pude concluir minha pós-graduação em Inteligência Artificial, Machine Learning e Deep Learning no INFNET, onde tive a oportunidade de trabalhar em projetos relevantes para a minha formação.
