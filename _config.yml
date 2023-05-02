@@ -6,7 +6,7 @@ tagline: de Ciência de Dados
 bannerTitle: "Winicius Faquieri"
 bannerTagline: Data Scientist @FGV IBRE
 bannerDescription: Sou economista com mais de 4 anos de experiência em aplicação de técnicas avançadas de Data Science, como Machine Learning e Inteligência Artificial, em solução de problemas de negócios. Na FGV-IBRE, tenho liderado e participado de projetos de DS, aplicando minhas habilidades em linguagens como R, Python, SQL para resolver problemas complexos. Possuo conhecimento avançado em Shiny para a construção de aplicativos web e interesse em estudos na área de engenharia de software. 
-bannerImage: images/photo1.png
+bannerImage: images/photo2.png
 bannerButton: true
 bannerButtonLink: index.html
 contactTagline: Quer trabalhar juntos em um projeto? Entre em contato!
@@ -22,7 +22,7 @@ featuretteSecondTagline: Experiência em gerenciamento de bancos de dados relaci
 featuretteSecondIcon: icon fa-database
 featuretteThirdHighlight: Visualização de Dados
 featuretteThirdTagline: Habilidade em criar gráficos e visualizações de dados interativos para comunicar insights e resultados de análise de dados de forma eficaz. Tools - ggplot2, echarts, shiny, seaborn, matplotlib, Power BI.
-featuretteThirdIcon: icon fas fa-chart-line
+featuretteThirdIcon: icon chart-line
 featuretteFourthHighlight: Engenharia de Machine Learning
 featuretteFourthTagline: Conhecimento de ferramentas e tecnologias para criar, implementar e manter modelos de Machine Learning escaláveis e de alto desempenho. Tools - MLflow, Kedro, AutoML, Hugging Face.
 featuretteFourthIcon: icon fa-gears
