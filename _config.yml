@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Winicius B. Faquieri
-title: Cientista de Dados
+title: Ciência de Dados | Engenharia de ML
 email: wfaquieri@gmail.com
 website: https://wfaquieri.github.io/
 
@@ -28,7 +28,7 @@ additional_links:
 
 # About Section
 about_title: Sobre mim
-about_profile_image: images/profile_wbf.png
+about_profile_image: images/3.png
 about_content: | Oi, meu nome é Winicius e sou cientista de dados. Ao longo da minha carreira, tenho trabalhado com análise de dados e desenvolvimento de soluções que apoiam decisões estratégicas e operacionais. Tenho experiência em criar dashboards interativos, implementar modelos de Machine Learning e otimizar processos para aumentar a eficiência. Além disso, já atuei em projetos de automação e sempre busco novas formas de gerar valor por meio de dados.
   
 content:  
@@ -86,7 +86,7 @@ content:
         title: UERJ
         caption: 2016 - 2017
         sub_title: Mestrado em Economia Aplicada (Métodos Quantitativos)
-        description: | | Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R e Stata para analisar grandes volumes de dados e prever comportamentos econômicos. Minha dissertação focou na análise de séries temporais e modelagem econométrica, com aplicações práticas na previsão de indicadores macroeconômicos. Essa formação consolidou meu entendimento de econometria aplicada e métodos quantitativos, permitindo que eu abordasse problemas complexos em diferentes contextos econômicos com rigor matemático e estatístico.
+        description: | Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R e Stata para analisar grandes volumes de dados e prever comportamentos econômicos. Minha dissertação focou na análise de séries temporais e modelagem econométrica, com aplicações práticas na previsão de indicadores macroeconômicos. Essa formação consolidou meu entendimento de econometria aplicada e métodos quantitativos, permitindo que eu abordasse problemas complexos em diferentes contextos econômicos com rigor matemático e estatístico.
      
   - title: A Little More About Me
     layout: text
