@@ -59,7 +59,7 @@ content:
           Na EPGE, atuei como Assistente de Pesquisa, realizando a coleta e análise de dados econométricos para pesquisas acadêmicas focadas em estudos macroeconômicos. Um dos projetos principais analisava o impacto das receitas dos royalties do petróleo nas despesas públicas e o bem-estar da população em diferentes níveis. Durante esse período, utilizei ferramentas como R e Stata para modelagem estatística, contribuindo para a robustez dos estudos quantitativos.
 
       - layout: left
-        border: weak
+        # border: weak
         title: SulAmérica
         link: https://portal.sulamericaseguros.com.br/home.htm
         link_text: https://portal.sulamericaseguros.com.br/home.htm
@@ -87,6 +87,13 @@ content:
         description: | 
           Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R e Stata para analisar grandes volumes de dados e prever comportamentos econômicos. Minha dissertação focou na análise de séries temporais e modelagem econométrica, com aplicações práticas na previsão de indicadores macroeconômicos. Essa formação consolidou meu entendimento de econometria aplicada e métodos quantitativos, permitindo que eu abordasse problemas complexos em diferentes contextos econômicos com rigor matemático e estatístico.
      
+      - layout: left
+        title: UERJ
+        caption: 2010 - 2014
+        sub_title: Bacharelado em Ciências Econômicas
+        description: | 
+          Durante minha graduação, adquiri conhecimentos em teoria econômica, análise de mercado e políticas públicas, desenvolvendo habilidades analíticas e críticas que aplico até hoje.
+       
   - title: Um pouco mais sobre mim
     layout: text
     content: | # this will include new lines to allow paragraphs
