@@ -50,9 +50,9 @@ content:
         sub_title: Analista de Inteligência de Dados
         caption: Maio 2019 - Maio. 2023
         description: | 
-          No IBRE, realizei análises de dados utilizando as linguagens R, Python e SQL para gerar insights significativos. Desenvolvi e executei modelos de Machine Learning em projetos ad hoc, aplicando técnicas de classificação para resolver problemas de negócios.
+          No IBRE, realizei análises de dados utilizando as linguagens <mark>R</mark>, <mark>Python</mark> e <mark>SQL</mark> para gerar insights significativos. Desenvolvi e implementei modelos de <mark>Machine Learning</mark> em projetos ad hoc, aplicando técnicas de classificação para resolver problemas de negócios.
 
-          Criei dashboards interativos para storytelling, apresentando informações de maneira atraente e intuitiva. Explorei grandes volumes de dados com BigQuery, gerando insights relevantes para a tomada de decisão.
+          Criei dashboards interativos para <mark>storytelling</mark>, apresentando informações de maneira atraente e intuitiva. Explorei grandes volumes de dados com <mark>BigQuery</mark>, gerando insights relevantes para a tomada de decisão.
 
           Desenvolvi soluções tecnológicas para automatizar processos e aumentar a produtividade das áreas de negócio. Também colaborei em estudos setoriais e representei a instituição em reuniões e eventos, comunicando questões técnicas de forma acessível a diferentes partes interessadas.
         
@@ -66,7 +66,7 @@ content:
         description: | 
           Na EPGE, realizei a coleta e análise de dados econométricos para pesquisas acadêmicas, aplicando métodos quantitativos em projetos voltados para estudos macroeconômicos. Um dos estudos focou em analisar como as receitas dos royalties do petróleo influenciam as despesas públicas em diferentes níveis e seu impacto no bem-estar da população.
 
-          Utilizei ferramentas como R e Stata para a modelagem estatística, garantindo precisão e relevância nas análises.
+          Utilizei ferramentas como <mark>R</mark> e <mark>Stata</mark> para a modelagem estatística, garantindo precisão e relevância nas análises.
 
       - layout: left
         # border: weak
