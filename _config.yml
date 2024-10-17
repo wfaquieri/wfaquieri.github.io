@@ -37,7 +37,7 @@ additional_links:
 # About Section
 about_title: Sobre mim
 about_profile_image: images/profile_wbf.png
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   Oi, meu nome é Winicius e sou cientista de dados. Ao longo da minha carreira, tenho trabalhado com análise de dados e desenvolvimento de soluções que apoiam decisões estratégicas e operacionais. Tenho experiência em criar dashboards interativos, implementar modelos de Machine Learning e otimizar processos para aumentar a eficiência. Além disso, já atuei em projetos de automação e sempre busco novas formas de gerar valor por meio de dados.
   
 content:
@@ -64,6 +64,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Red Asset
         link: https://redasset.com.br/
         link_text: https://redasset.com.br/
@@ -72,7 +73,8 @@ content:
         description: | 
             Na Red, atuei como Cientista de Dados sendo responsável pelo desenvolvimento de análises e relatórios que apoiavam as áreas de negócios, gerando impacto nas decisões operacionais e estratégicas. Desenvolvi dashboards em Shiny para visualização de dados em tempo real e monitoramento contínuo de modelos de Machine Learning em produção. Além disso, estudei e apliquei ferramentas e técnicas de monitoramento de modelos, assegurando a observabilidade e qualidade dos dados.
         
-        - layout: left
+       - layout: left
+        border: weak
         title: FGV IBRE
         link: https://portalibre.fgv.br/
         link_text: https://portalibre.fgv.br/
@@ -81,7 +83,7 @@ content:
         description: | 
             No IBRE, atuei como Analista de Inteligência de Dados, realizando análises de dados com R, Python e SQL para gerar insights relevantes que apoiavam a tomada de decisões. Fui responsável pela criação e manutenção de dashboards interativos em Shiny e Power BI, facilitando a comunicação de resultados para diversos stakeholders. Durante esse período, automatizei tarefas e relatórios por meio de scripts em Python e R, o que aumentou a eficiência e reduziu o tempo gasto em processos manuais. Também explorei grandes volumes de dados com BigQuery, gerando insights valiosos para decisões estratégicas. Além disso, desenvolvi soluções tecnológicas para automatizar processos e melhorar a produtividade da equipe, oferecendo suporte técnico e trabalhando em inovações para a área. Em reuniões e eventos, representei a instituição, articulando questões técnicas de maneira clara para diferentes partes interessadas.
         
-        - layout: left
+       - layout: left
         title: FGV EPGE
         link: https://epge.fgv.br/pt
         link_text: https://epge.fgv.br/pt
@@ -90,7 +92,7 @@ content:
         description: | 
             Na EPGE, atuei como Assistente de Pesquisa, realizando a coleta e análise de dados econométricos para pesquisas acadêmicas focadas em estudos macroeconômicos. Um dos projetos principais analisava o impacto das receitas dos royalties do petróleo nas despesas públicas e o bem-estar da população em diferentes níveis. Durante esse período, utilizei ferramentas como R e Stata para modelagem estatística, contribuindo para a robustez dos estudos quantitativos.
         
-        - layout: left
+       - layout: left
         title: SulAmérica
         link: https://portal.sulamericaseguros.com.br/home.htm
         link_text: https://portal.sulamericaseguros.com.br/home.htm
