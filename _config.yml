@@ -20,7 +20,7 @@ linkedin_username: wfaquieri
 
 # About Section
 about_title: Resumo
-about_profile_image: images/photo_wbf.png
+about_profile_image: images/profile_wbf.png
 about_content: | 
   Oi, meu nome é Winicius e sou cientista de dados. Ao longo da minha carreira, tenho trabalhado com análise de dados e desenvolvimento de soluções que apoiam decisões estratégicas e operacionais. Tenho experiência em criar dashboards interativos, implementar modelos de Machine Learning e otimizar processos para aumentar a eficiência. Além disso, já atuei em projetos de automação e sempre busco novas formas de gerar valor por meio de dados.
 
@@ -104,9 +104,6 @@ content:
       - Yoga e meditação
       - Leitura
       - [Reflexões sobre espiritualidade](https://medium.com/@wfaquieri)
-      - <img src="URL_DO_ICONE" alt="Café" style="width:16px; vertical-align:middle;"> Cafézinho
-      - Masterchef (sim, o programa)
-      - Minas Gerais
       
 
 # Footer
