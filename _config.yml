@@ -38,9 +38,9 @@ content:
         description: | 
           Na Red, fui responsável por desenvolver análises e relatórios que apoiavam as áreas de negócios, impactando as decisões operacionais e estratégicas. Desenvolvi dashboards em Shiny para visualização de dados em tempo real e monitoramento contínuo de modelos de Machine Learning em produção.
 
-Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em R e Shiny, contribuindo para a visualização de KPIs e a tomada de decisões.
+          Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em R e Shiny, contribuindo para a visualização de KPIs e a tomada de decisões.
 
-Participei da implementação de modelos de Machine Learning em produção e colaborei na otimização de consultas SQL, melhorando a eficiência das análises de dados.
+          Participei da implementação de modelos de Machine Learning em produção e colaborei na otimização de consultas SQL, melhorando a eficiência das análises de dados.
         
       - layout: left
         border: weak
@@ -52,9 +52,9 @@ Participei da implementação de modelos de Machine Learning em produção e col
         description: | 
           No IBRE, realizei análises de dados utilizando as linguagens R, Python e SQL para gerar insights significativos. Desenvolvi e executei modelos de Machine Learning em projetos ad hoc, aplicando técnicas de classificação para resolver problemas de negócios.
 
-Criei dashboards interativos para storytelling, apresentando informações de maneira atraente e intuitiva. Explorei grandes volumes de dados com BigQuery, gerando insights relevantes para a tomada de decisão.
+          Criei dashboards interativos para storytelling, apresentando informações de maneira atraente e intuitiva. Explorei grandes volumes de dados com BigQuery, gerando insights relevantes para a tomada de decisão.
 
-Desenvolvi soluções tecnológicas para automatizar processos e aumentar a produtividade das áreas de negócio. Também representei a instituição em reuniões e eventos, comunicando questões técnicas de forma acessível a diferentes partes interessadas.
+          Desenvolvi soluções tecnológicas para automatizar processos e aumentar a produtividade das áreas de negócio. Também representei a instituição em reuniões e eventos, comunicando questões técnicas de forma acessível a diferentes partes interessadas.
         
       - layout: left
         border: weak
@@ -66,7 +66,7 @@ Desenvolvi soluções tecnológicas para automatizar processos e aumentar a prod
         description: | 
           Na EPGE, realizei a coleta e análise de dados econométricos para pesquisas acadêmicas, aplicando métodos quantitativos em projetos voltados para estudos macroeconômicos. Um dos estudos focou em analisar como as receitas dos royalties do petróleo influenciam as despesas públicas em diferentes níveis e seu impacto no bem-estar da população.
 
-Utilizei ferramentas como R e Stata para a modelagem estatística, garantindo precisão e relevância nas análises.
+          Utilizei ferramentas como R e Stata para a modelagem estatística, garantindo precisão e relevância nas análises.
 
       - layout: left
         # border: weak
