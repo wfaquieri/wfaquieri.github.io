@@ -36,7 +36,11 @@ content:
         sub_title: Cientista de Dados Pleno
         caption: Junho 2023 - Fev. 2024
         description: | 
-          Na Red, atuei como Cientista de Dados sendo responsável pelo desenvolvimento de análises e relatórios que apoiavam as áreas de negócios, gerando impacto nas decisões operacionais e estratégicas. Desenvolvi dashboards em Shiny para visualização de dados em tempo real e monitoramento contínuo de modelos de Machine Learning em produção. Além disso, estudei e apliquei ferramentas e técnicas de monitoramento de modelos, assegurando a observabilidade e qualidade dos dados.
+          Na Red, fui responsável por desenvolver análises e relatórios que apoiavam as áreas de negócios, impactando as decisões operacionais e estratégicas. Desenvolvi dashboards em Shiny para visualização de dados em tempo real e monitoramento contínuo de modelos de Machine Learning em produção.
+
+Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em R e Shiny, contribuindo para a visualização de KPIs e a tomada de decisões.
+
+Participei da implementação de modelos de Machine Learning em produção e colaborei na otimização de consultas SQL, melhorando a eficiência das análises de dados.
         
       - layout: left
         border: weak
@@ -46,7 +50,11 @@ content:
         sub_title: Analista de Inteligência de Dados
         caption: Maio 2019 - Maio. 2023
         description: | 
-          No IBRE, atuei como Analista de Inteligência de Dados, realizando análises de dados com R, Python e SQL para gerar insights relevantes que apoiavam a tomada de decisões. Fui responsável pela criação e manutenção de dashboards interativos em Shiny e Power BI, facilitando a comunicação de resultados para diversos stakeholders. Durante esse período, automatizei tarefas e relatórios por meio de scripts em Python e R, o que aumentou a eficiência e reduziu o tempo gasto em processos manuais. Também explorei grandes volumes de dados com BigQuery, gerando insights valiosos para decisões estratégicas. Além disso, desenvolvi soluções tecnológicas para automatizar processos e melhorar a produtividade da equipe, oferecendo suporte técnico e trabalhando em inovações para a área. Em reuniões e eventos, representei a instituição, articulando questões técnicas de maneira clara para diferentes partes interessadas.
+          No IBRE, realizei análises de dados utilizando as linguagens R, Python e SQL para gerar insights significativos. Desenvolvi e executei modelos de Machine Learning em projetos ad hoc, aplicando técnicas de classificação para resolver problemas de negócios.
+
+Criei dashboards interativos para storytelling, apresentando informações de maneira atraente e intuitiva. Explorei grandes volumes de dados com BigQuery, gerando insights relevantes para a tomada de decisão.
+
+Desenvolvi soluções tecnológicas para automatizar processos e aumentar a produtividade das áreas de negócio. Também representei a instituição em reuniões e eventos, comunicando questões técnicas de forma acessível a diferentes partes interessadas.
         
       - layout: left
         border: weak
@@ -56,7 +64,9 @@ content:
         sub_title: Assistente de Pesquisa
         caption: Dez. 2017 - Abril. 2019
         description: | 
-          Na EPGE, atuei como Assistente de Pesquisa, realizando a coleta e análise de dados econométricos para pesquisas acadêmicas focadas em estudos macroeconômicos. Um dos projetos principais analisava o impacto das receitas dos royalties do petróleo nas despesas públicas e o bem-estar da população em diferentes níveis. Durante esse período, utilizei ferramentas como R e Stata para modelagem estatística, contribuindo para a robustez dos estudos quantitativos.
+          Na EPGE, realizei a coleta e análise de dados econométricos para pesquisas acadêmicas, aplicando métodos quantitativos em projetos voltados para estudos macroeconômicos. Um dos estudos focou em analisar como as receitas dos royalties do petróleo influenciam as despesas públicas em diferentes níveis e seu impacto no bem-estar da população.
+
+Utilizei ferramentas como R e Stata para a modelagem estatística, garantindo precisão e relevância nas análises.
 
       - layout: left
         # border: weak
