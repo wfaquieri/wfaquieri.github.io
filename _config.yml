@@ -36,7 +36,7 @@ content:
         sub_title: Cientista de Dados Pleno
         caption: Junho 2023 - Fev. 2024
         description: | 
-          Na Red, fui responsável por desenvolver análises e relatórios que apoiavam as áreas de negócios, impactando as decisões operacionais e estratégicas. Desenvolvi dashboards em <mark>Shiny</mark> para visualização de dados em tempo real e monitoramento contínuo de modelos de <mark>Machine Learning</mark> em produção.
+          Na Red, fui responsável por desenvolver análises e relatórios que apoiavam as áreas de negócios, impactando as decisões operacionais e estratégicas. Desenvolvi dashboards em <mark>Shiny</mark> para visualização de dados em tempo real e monitoramento contínuo de modelos de <mark>Machine Learning</mark> em produção, alinhados às práticas de <mark>MLOps</mark>.
 
           Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em <mark>R</mark> e <mark>Shiny</mark>, contribuindo para a visualização de KPIs e a tomada de decisões.
 
@@ -87,13 +87,15 @@ content:
         caption: 2022 - 2023
         sub_title: Pós Graduação em Inteligência Artificial, Machine Learning e Deep Learning
         description: | 
-          Durante o curso, adquiri conhecimentos avançados nas áreas de inteligência artificial e aprendizado de máquina, aplicando técnicas modernas em projetos práticos. Entre os projetos desenvolvidos, destaquei-me em Processamento de Linguagem Natural com Python, onde explorei abordagens para análise de texto, e em Redes Neurais com TensorFlow, que me permitiram construir modelos complexos para diversas aplicações. Também trabalhei em Mineração de Texto com Stack Elk, focando na extração de insights a partir de grandes volumes de dados textuais. Essa formação me proporcionou uma sólida base teórica e prática, além de me familiarizar com ferramentas essenciais como Python, TensorFlow, e Scikit-Learn, preparando-me para enfrentar desafios no campo da inteligência artificial.
+          Durante o curso, desenvolvi uma série de projetos práticos, incluindo algoritmos supervisionados para classificação, engenharia de Machine Learning e processamento de linguagem natural com Python. Também trabalhei em mineração de texto utilizando Stack Elk e desenvolvi redes neurais e modelos de Deep Learning com Tensorflow.
+
+          Outros projetos envolveram a aplicação de algoritmos não-supervisionados para clusterização e a validação desses modelos. Utilizei diversas ferramentas e tecnologias, como Python, Tensorflow, Jupyter, Elastic Search, Pandas, NLP, Scikit-Learn, redes neurais, AutoML, Dash, SVM, Plot.ly, MLflow e Kedro.
       
       - layout: left
         border: weak
         title: UERJ
         caption: 2016 - 2017
-        sub_title: Mestrado em Economia Aplicada (Métodos Quantitativos)
+        sub_title: Mestrado em Economia Aplicada
         description: | 
           Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R e Stata para analisar grandes volumes de dados e prever comportamentos econômicos. Minha dissertação focou na análise de séries temporais e modelagem econométrica, com aplicações práticas na previsão de indicadores macroeconômicos. Essa formação consolidou meu entendimento de econometria aplicada e métodos quantitativos, permitindo que eu abordasse problemas complexos em diferentes contextos econômicos com rigor matemático e estatístico.
      
