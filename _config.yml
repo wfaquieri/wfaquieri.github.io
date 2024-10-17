@@ -36,11 +36,11 @@ content:
         sub_title: Cientista de Dados Pleno
         caption: Junho 2023 - Fev. 2024
         description: | 
-          Na Red, fui responsável por desenvolver análises e relatórios que apoiavam as áreas de negócios, impactando as decisões operacionais e estratégicas. Desenvolvi dashboards em Shiny para visualização de dados em tempo real e monitoramento contínuo de modelos de Machine Learning em produção.
+          Na Red, fui responsável por desenvolver análises e relatórios que apoiavam as áreas de negócios, impactando as decisões operacionais e estratégicas. Desenvolvi dashboards em <mark>Shiny</mark> para visualização de dados em tempo real e monitoramento contínuo de modelos de <mark>Machine Learning</mark> em produção.
 
-          Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em R e Shiny, contribuindo para a visualização de KPIs e a tomada de decisões.
+          Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em <mark>R</mark> e <mark>Shiny</mark>, contribuindo para a visualização de KPIs e a tomada de decisões.
 
-          Participei da implementação de modelos de Machine Learning em produção e colaborei na otimização de consultas SQL, melhorando a eficiência das análises de dados.
+          Participei da implementação de modelos de <mark>Machine Learning</mark> em produção e colaborei na otimização de consultas <mark>SQL</mark>, melhorando a eficiência das análises de dados.
         
       - layout: left
         border: weak
