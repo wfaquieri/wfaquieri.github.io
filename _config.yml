@@ -54,6 +54,7 @@ content:
         description: | No IBRE, atuei como Analista de Inteligência de Dados, realizando análises de dados com R, Python e SQL para gerar insights relevantes que apoiavam a tomada de decisões. Fui responsável pela criação e manutenção de dashboards interativos em Shiny e Power BI, facilitando a comunicação de resultados para diversos stakeholders. Durante esse período, automatizei tarefas e relatórios por meio de scripts em Python e R, o que aumentou a eficiência e reduziu o tempo gasto em processos manuais. Também explorei grandes volumes de dados com BigQuery, gerando insights valiosos para decisões estratégicas. Além disso, desenvolvi soluções tecnológicas para automatizar processos e melhorar a produtividade da equipe, oferecendo suporte técnico e trabalhando em inovações para a área. Em reuniões e eventos, representei a instituição, articulando questões técnicas de maneira clara para diferentes partes interessadas.
         
       - layout: left
+        border: weak
         title: FGV EPGE
         link: https://epge.fgv.br/pt
         link_text: https://epge.fgv.br/pt
@@ -62,6 +63,7 @@ content:
         description: | Na EPGE, atuei como Assistente de Pesquisa, realizando a coleta e análise de dados econométricos para pesquisas acadêmicas focadas em estudos macroeconômicos. Um dos projetos principais analisava o impacto das receitas dos royalties do petróleo nas despesas públicas e o bem-estar da população em diferentes níveis. Durante esse período, utilizei ferramentas como R e Stata para modelagem estatística, contribuindo para a robustez dos estudos quantitativos.
         
       - layout: left
+        border: weak
         title: SulAmérica
         link: https://portal.sulamericaseguros.com.br/home.htm
         link_text: https://portal.sulamericaseguros.com.br/home.htm
@@ -77,7 +79,13 @@ content:
         caption: 2022 - 2023
         sub_title: Pós Graduação em Inteligência Artificial, Machine Learning e Deep Learning
         description: | Durante o curso, adquiri conhecimentos avançados nas áreas de inteligência artificial e aprendizado de máquina, aplicando técnicas modernas em projetos práticos. Entre os projetos desenvolvidos, destaquei-me em Processamento de Linguagem Natural com Python, onde explorei abordagens para análise de texto, e em Redes Neurais com TensorFlow, que me permitiram construir modelos complexos para diversas aplicações. Também trabalhei em Mineração de Texto com Stack Elk, focando na extração de insights a partir de grandes volumes de dados textuais. Essa formação me proporcionou uma sólida base teórica e prática, além de me familiarizar com ferramentas essenciais como Python, TensorFlow, e Scikit-Learn, preparando-me para enfrentar desafios no campo da inteligência artificial.
-
+      
+      - layout: left
+        title: UERJ
+        caption: 2016 - 2017
+        sub_title: Mestrado em Economia Aplicada (Métodos Quantitativos)
+        #description: | Durante o curso, adquiri conhecimentos avançados nas áreas de inteligência artificial e aprendizado de máquina, aplicando técnicas modernas em projetos práticos. Entre os projetos desenvolvidos, destaquei-me em Processamento de Linguagem Natural com Python, onde explorei abordagens para análise de texto, e em Redes Neurais com TensorFlow, que me permitiram construir modelos complexos para diversas aplicações. Também trabalhei em Mineração de Texto com Stack Elk, focando na extração de insights a partir de grandes volumes de dados textuais. Essa formação me proporcionou uma sólida base teórica e prática, além de me familiarizar com ferramentas essenciais como Python, TensorFlow, e Scikit-Learn, preparando-me para enfrentar desafios no campo da inteligência artificial.
+     
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
