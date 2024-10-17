@@ -20,7 +20,7 @@ linkedin_username: wfaquieri
 
 # About Section
 about_title: Resumo
-about_profile_image: images/1.png
+about_profile_image: images/photo_wbf.png
 about_content: | 
   Oi, meu nome é Winicius e sou cientista de dados. Ao longo da minha carreira, tenho trabalhado com análise de dados e desenvolvimento de soluções que apoiam decisões estratégicas e operacionais. Tenho experiência em criar dashboards interativos, implementar modelos de Machine Learning e otimizar processos para aumentar a eficiência. Além disso, já atuei em projetos de automação e sempre busco novas formas de gerar valor por meio de dados.
 
@@ -90,16 +90,17 @@ content:
   - title: Um pouco mais sobre mim
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Além de data science e engenharia de software, meus hobbies incluem:
+      Além de data science, meus hobbies incluem:
       - Trilhas 
       - Crossfit
       - Bike
       - Yoga e meditação
       - Leitura
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      # Look at this cool image  
       - [Reflexões sobre espiritualidade](https://medium.com/@wfaquieri)
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - <img src="URL_DO_ICONE" alt="Café" style="width:16px; vertical-align:middle;"> Cafézinho
+      - Masterchef (sim, o programa)
+      - Minas Gerais
+      
 
 # Footer
 # footer_show_references: true
