@@ -21,8 +21,9 @@ linkedin_username: wfaquieri
 # About Section
 about_title: Sobre mim
 about_profile_image: images/3.png
-about_content: | Oi, meu nome é Winicius e sou cientista de dados. Ao longo da minha carreira, tenho trabalhado com análise de dados e desenvolvimento de soluções que apoiam decisões estratégicas e operacionais. Tenho experiência em criar dashboards interativos, implementar modelos de Machine Learning e otimizar processos para aumentar a eficiência. Além disso, já atuei em projetos de automação e sempre busco novas formas de gerar valor por meio de dados.
-  
+about_content: | 
+  Oi, meu nome é Winicius e sou cientista de dados. Ao longo da minha carreira, tenho trabalhado com análise de dados e desenvolvimento de soluções que apoiam decisões estratégicas e operacionais. Tenho experiência em criar dashboards interativos, implementar modelos de Machine Learning e otimizar processos para aumentar a eficiência. Além disso, já atuei em projetos de automação e sempre busco novas formas de gerar valor por meio de dados.
+
 content:  
   - title: Experiência Profissional 
     layout: list 
@@ -34,7 +35,8 @@ content:
         link_text: https://redasset.com.br/
         sub_title: Cientista de Dados Pleno
         caption: Junho 2023 - Fev. 2024
-        description: | Na Red, atuei como Cientista de Dados sendo responsável pelo desenvolvimento de análises e relatórios que apoiavam as áreas de negócios, gerando impacto nas decisões operacionais e estratégicas. Desenvolvi dashboards em Shiny para visualização de dados em tempo real e monitoramento contínuo de modelos de Machine Learning em produção. Além disso, estudei e apliquei ferramentas e técnicas de monitoramento de modelos, assegurando a observabilidade e qualidade dos dados.
+        description: | 
+          Na Red, atuei como Cientista de Dados sendo responsável pelo desenvolvimento de análises e relatórios que apoiavam as áreas de negócios, gerando impacto nas decisões operacionais e estratégicas. Desenvolvi dashboards em Shiny para visualização de dados em tempo real e monitoramento contínuo de modelos de Machine Learning em produção. Além disso, estudei e apliquei ferramentas e técnicas de monitoramento de modelos, assegurando a observabilidade e qualidade dos dados.
         
       - layout: left
         border: weak
@@ -43,7 +45,8 @@ content:
         link_text: https://portalibre.fgv.br/
         sub_title: Analista de Inteligência de Dados
         caption: Maio 2019 - Maio. 2023
-        description: | No IBRE, atuei como Analista de Inteligência de Dados, realizando análises de dados com R, Python e SQL para gerar insights relevantes que apoiavam a tomada de decisões. Fui responsável pela criação e manutenção de dashboards interativos em Shiny e Power BI, facilitando a comunicação de resultados para diversos stakeholders. Durante esse período, automatizei tarefas e relatórios por meio de scripts em Python e R, o que aumentou a eficiência e reduziu o tempo gasto em processos manuais. Também explorei grandes volumes de dados com BigQuery, gerando insights valiosos para decisões estratégicas. Além disso, desenvolvi soluções tecnológicas para automatizar processos e melhorar a produtividade da equipe, oferecendo suporte técnico e trabalhando em inovações para a área. Em reuniões e eventos, representei a instituição, articulando questões técnicas de maneira clara para diferentes partes interessadas.
+        description: | 
+          No IBRE, atuei como Analista de Inteligência de Dados, realizando análises de dados com R, Python e SQL para gerar insights relevantes que apoiavam a tomada de decisões. Fui responsável pela criação e manutenção de dashboards interativos em Shiny e Power BI, facilitando a comunicação de resultados para diversos stakeholders. Durante esse período, automatizei tarefas e relatórios por meio de scripts em Python e R, o que aumentou a eficiência e reduziu o tempo gasto em processos manuais. Também explorei grandes volumes de dados com BigQuery, gerando insights valiosos para decisões estratégicas. Além disso, desenvolvi soluções tecnológicas para automatizar processos e melhorar a produtividade da equipe, oferecendo suporte técnico e trabalhando em inovações para a área. Em reuniões e eventos, representei a instituição, articulando questões técnicas de maneira clara para diferentes partes interessadas.
         
       - layout: left
         border: weak
@@ -52,7 +55,8 @@ content:
         link_text: https://epge.fgv.br/pt
         sub_title: Assistente de Pesquisa
         caption: Dez. 2017 - Abril. 2019
-        description: | Na EPGE, atuei como Assistente de Pesquisa, realizando a coleta e análise de dados econométricos para pesquisas acadêmicas focadas em estudos macroeconômicos. Um dos projetos principais analisava o impacto das receitas dos royalties do petróleo nas despesas públicas e o bem-estar da população em diferentes níveis. Durante esse período, utilizei ferramentas como R e Stata para modelagem estatística, contribuindo para a robustez dos estudos quantitativos.
+        description: | 
+          Na EPGE, atuei como Assistente de Pesquisa, realizando a coleta e análise de dados econométricos para pesquisas acadêmicas focadas em estudos macroeconômicos. Um dos projetos principais analisava o impacto das receitas dos royalties do petróleo nas despesas públicas e o bem-estar da população em diferentes níveis. Durante esse período, utilizei ferramentas como R e Stata para modelagem estatística, contribuindo para a robustez dos estudos quantitativos.
 
       - layout: left
         border: weak
@@ -61,7 +65,8 @@ content:
         link_text: https://portal.sulamericaseguros.com.br/home.htm
         sub_title: Estágio
         caption: Dez. 2017 - Abril. 2019
-        description: | Apoiei na análise de dados financeiros e no gerenciamento de fluxo de caixa, contribuindo para a eficiência das operações.
+        description: | 
+          Apoiei na análise de dados financeiros e no gerenciamento de fluxo de caixa, contribuindo para a eficiência das operações.
 
   - title: Education 
     layout: list 
@@ -71,13 +76,16 @@ content:
         title: Instituto Infnet
         caption: 2022 - 2023
         sub_title: Pós Graduação em Inteligência Artificial, Machine Learning e Deep Learning
-        description: | Durante o curso, adquiri conhecimentos avançados nas áreas de inteligência artificial e aprendizado de máquina, aplicando técnicas modernas em projetos práticos. Entre os projetos desenvolvidos, destaquei-me em Processamento de Linguagem Natural com Python, onde explorei abordagens para análise de texto, e em Redes Neurais com TensorFlow, que me permitiram construir modelos complexos para diversas aplicações. Também trabalhei em Mineração de Texto com Stack Elk, focando na extração de insights a partir de grandes volumes de dados textuais. Essa formação me proporcionou uma sólida base teórica e prática, além de me familiarizar com ferramentas essenciais como Python, TensorFlow, e Scikit-Learn, preparando-me para enfrentar desafios no campo da inteligência artificial.
+        description: | 
+          Durante o curso, adquiri conhecimentos avançados nas áreas de inteligência artificial e aprendizado de máquina, aplicando técnicas modernas em projetos práticos. Entre os projetos desenvolvidos, destaquei-me em Processamento de Linguagem Natural com Python, onde explorei abordagens para análise de texto, e em Redes Neurais com TensorFlow, que me permitiram construir modelos complexos para diversas aplicações. Também trabalhei em Mineração de Texto com Stack Elk, focando na extração de insights a partir de grandes volumes de dados textuais. Essa formação me proporcionou uma sólida base teórica e prática, além de me familiarizar com ferramentas essenciais como Python, TensorFlow, e Scikit-Learn, preparando-me para enfrentar desafios no campo da inteligência artificial.
+      
       - layout: left
         border: weak
         title: UERJ
         caption: 2016 - 2017
         sub_title: Mestrado em Economia Aplicada (Métodos Quantitativos)
-        description: | Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R e Stata para analisar grandes volumes de dados e prever comportamentos econômicos. Minha dissertação focou na análise de séries temporais e modelagem econométrica, com aplicações práticas na previsão de indicadores macroeconômicos. Essa formação consolidou meu entendimento de econometria aplicada e métodos quantitativos, permitindo que eu abordasse problemas complexos em diferentes contextos econômicos com rigor matemático e estatístico.
+        description: | 
+          Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R e Stata para analisar grandes volumes de dados e prever comportamentos econômicos. Minha dissertação focou na análise de séries temporais e modelagem econométrica, com aplicações práticas na previsão de indicadores macroeconômicos. Essa formação consolidou meu entendimento de econometria aplicada e métodos quantitativos, permitindo que eu abordasse problemas complexos em diferentes contextos econômicos com rigor matemático e estatístico.
      
 #   - title: A Little More About Me
 #     layout: text
