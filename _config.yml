@@ -40,7 +40,7 @@ content:
 
           Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em <mark>R</mark> e <mark>Shiny</mark>, contribuindo para a visualização de KPIs e a tomada de decisões.
 
-          Participei da implementação de modelos de <mark>Machine Learning</mark> em produção e colaborei na otimização de consultas <mark>SQL</mark>, melhorando a eficiência das análises de dados.
+          Participei da implementação de modelos de <mark>Machine Learning</mark> em produção, utlizando bibliotecas como <mark>Scikit-learn</mark>, <mark>LightGBM</mark>, <mark>XGBoost</mark>, <mark>FastAPI</mark> e <mark>Plumber</mark>. Também colaborei na otimização de consultas <mark>SQL</mark>, melhorando a eficiência das análises de dados.
         
       - layout: left
         border: weak
