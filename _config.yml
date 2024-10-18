@@ -110,11 +110,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Além de algoritmos e números, há um lado meu que encontra prazer em:
-      - Explorar *trilhas* e descobrir novos caminhos em meio à natureza. 
-      - Desafiar limites no crossfit e sentir a força do corpo em movimento.
-      - Aproveitar a liberdade de uma boa pedalada, deixando a mente fluir enquanto as rodas giram.
-      - Praticar yoga e meditação, buscando o equilíbrio entre corpo e mente.
-      - Mergulhar em boas leituras, onde cada página é uma oportunidade de expandir minha visão de mundo.
+      - Explorar **trilhas** e descobrir novos caminhos em meio à natureza. 
+      - Desafiar limites no **crossfit** e sentir a força do corpo em movimento.
+      - Aproveitar a liberdade de uma boa **pedalada**, deixando a mente fluir enquanto as rodas giram.
+      - Praticar **yoga** e **meditação**, buscando o equilíbrio entre corpo e mente.
+      - Mergulhar em boas **leituras**, onde cada página é uma oportunidade de expandir minha visão de mundo.
       - [Buscar respostas nas reflexões espirituais, que dão sentido à jornada.](https://medium.com/@wfaquieri)
       
 
