@@ -123,9 +123,6 @@ content:
       **Inteligência Artificial e Machine Learning**
         - Inteligência Artificial Generativa (Enap)
         - Machine Learning em Python e C++ (Data Science Academy)
-        - Data Science e Machine Learning com Linguagem Julia (Data Science Academy)
-        - Machine Learning com JavaScript e Go (Data Science Academy)
-        - Foundations of Functional Programming with purrrr (DataCamp)
         - Machine Learning in R: Classification (DataCamp)
         - Machine Learning in R: Regression (DataCamp)
         - Unsupervised Learning in Python (DataCamp)
@@ -134,6 +131,7 @@ content:
       **Análise de Dados e Visualização**
         - Intermediate SQL Server (DataCamp)
         - Excel Avançado com VBA, Linguagem Python e SQL (Data Science Academy)
+        - Foundations of Functional Programming with purrrr (DataCamp)
         - Introduction to Text Analysis in R (DataCamp)
         - String Manipulation with stringr in R (DataCamp)
         - Web Scraping in Python (DataCamp)        
