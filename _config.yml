@@ -105,10 +105,16 @@ content:
         sub_title: Bacharelado em Ciências Econômicas
         description: | 
           Durante minha graduação, adquiri conhecimentos em teoria econômica, análise de mercado e políticas públicas, desenvolvendo habilidades analíticas e críticas que aplico até hoje.
-       
+  
+  - title: Publicações
+    layout: text
+    content: |  
+      - [Hedging Brazilian equities in the era of low interest rates: What has changed?](https://periodicos.fgv.br/rbfin/article/view/81625) (BRAZiLiAN REViEW OF FiNANCE)
+      - [Can Gaussian factor models of commodity prices capture the financialization phenomenon?](https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117) (THE NORTH AMERiCAN JOURNAL OF ECONOMiCS AND FiNANCE)
+
   - title: Um pouco mais sobre mim
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Além de algoritmos e números, há um lado meu que encontra prazer em:
       - Explorar **trilhas** e descobrir novos caminhos em meio à natureza. 
       - Desafiar limites no **crossfit** e sentir a força do corpo em movimento.
