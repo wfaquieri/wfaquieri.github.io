@@ -109,16 +109,16 @@ content:
   - title: Certificações
     layout: text
     contant: |
-      Liderança e Gestão:
-        - Planejamento Estratégico (Enap)
-        - Liderança e Gestão de Equipes (Enap)
-        - Introdução à Gestão de Projetos (Enap)
-        - Soft Skills: Desenvolvendo Suas Habilidades Comportamentais (Data Science Academy)
+      **Liderança e Gestão:**
+      - Planejamento Estratégico (Enap)
+      - Liderança e Gestão de Equipes (Enap)
+      - Introdução à Gestão de Projetos (Enap)
+      - Soft Skills: Desenvolvendo Suas Habilidades Comportamentais (Data Science Academy)
 
-      Governança e Transformação Digital
-        - Governança de Dados (Data Science Academy)
-        - Transformação Digital (FGV)
-        - Ética em IA (Enap)
+      **Governança e Transformação Digital**
+      - Governança de Dados (Data Science Academy)
+      - Transformação Digital (FGV)
+      - Ética em IA (Enap)
 
       Inteligência Artificial e Machine Learning
         - Inteligência Artificial Generativa (Enap)
