@@ -106,11 +106,51 @@ content:
         description: | 
           Durante minha graduação, adquiri conhecimentos em teoria econômica, análise de mercado e políticas públicas, desenvolvendo habilidades analíticas e críticas que aplico até hoje.
   
+  - title: Certificações
+    layout: text
+    contant: |
+      Liderança e Gestão:
+        - Planejamento Estratégico (Enap)
+        - Liderança e Gestão de Equipes (Enap)
+        - Introdução à Gestão de Projetos (Enap)
+        - Soft Skills: Desenvolvendo Suas Habilidades Comportamentais (Data Science Academy)
+
+      Governança e Transformação Digital
+        - Governança de Dados (Data Science Academy)
+        - Transformação Digital (FGV)
+        - Ética em IA (Enap)
+
+      Inteligência Artificial e Machine Learning
+        - Inteligência Artificial Generativa (Enap)
+        - Machine Learning em Python e C++ (Data Science Academy)
+        - Data Science e Machine Learning com Linguagem Julia (Data Science Academy)
+        - Machine Learning com JavaScript e Go (Data Science Academy)
+        - Foundations of Functional Programming with purrrr (DataCamp)
+        - Machine Learning in R: Classification (DataCamp)
+        - Machine Learning in R: Regression (DataCamp)
+        - Unsupervised Learning in Python (DataCamp)
+        - Natural Language Processing in Python (DataCamp)
+      
+      Análise de Dados e Visualização
+        - Intermediate SQL Server (DataCamp)
+        - Excel Avançado com VBA, Linguagem Python e SQL (Data Science Academy)
+        - Introduction to Text Analysis in R (DataCamp)
+        - String Manipulation with stringr in R (DataCamp)
+        - Web Scraping in Python (DataCamp)        
+        - Power BI para Data Science (Data Science Academy)
+        - Dashboards em Shiny II (Curso‑R)
+        - Case Studies: Building Web Applications with Shiny in R (DataCamp)
+        - Introduction to Tableau (DataCamp)
+      
+      Computação em Nuvem e Desenvolvimento
+        - Cloud Computing for Everyone (DataCamp)
+        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)
+
   - title: Publicações
     layout: text
     content: |  
-      - [Hedging Brazilian equities in the era of low interest rates: What has changed?](https://periodicos.fgv.br/rbfin/article/view/81625) (BRAZiLiAN REViEW OF FiNANCE)
-      - [Can Gaussian factor models of commodity prices capture the financialization phenomenon?](https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117) (THE NORTH AMERiCAN JOURNAL OF ECONOMiCS AND FiNANCE)
+      - [Hedging Brazilian equities in the era of low interest rates: What has changed?](https://periodicos.fgv.br/rbfin/article/view/81625) (Brazilian Review of Finance)
+      - [Can Gaussian factor models of commodity prices capture the financialization phenomenon?](https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117) (The North American Journal of Economics and Finance)
 
   - title: Um pouco mais sobre mim
     layout: text
