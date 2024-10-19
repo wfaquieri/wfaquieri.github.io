@@ -50,7 +50,7 @@ content:
         sub_title: Analista de Inteligência de Dados
         caption: Maio 2019 - Maio. 2023
         description: | 
-          No IBRE, realizei análises de dados utilizando as linguagens <mark>R</mark>, <mark>Python</mark> e <mark>SQL</mark> para gerar insights significativos. Desenvolvi e implementei modelos de <mark>Machine Learning</mark> em projetos ad hoc, aplicando técnicas de classificação para resolver problemas de negócios.
+          No IBRE, realizei análises de dados utilizando as linguagens <mark>R</mark>, <mark>Python</mark> e <mark>SQL</mark> para gerar insights significativos. Desenvolvi e implementei modelos de <mark>Machine Learning</mark> em projetos ad hoc, aplicando técnicas estatísticas para resolver problemas complexos.
 
           Criei dashboards interativos para <mark>storytelling</mark>, apresentando informações de maneira atraente e intuitiva. Explorei grandes volumes de dados com <mark>BigQuery</mark>, gerando insights relevantes para a tomada de decisão.
 
@@ -97,8 +97,7 @@ content:
         caption: 2016 - 2017
         sub_title: Mestrado em Economia Aplicada
         description: | 
-          Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R e Stata para analisar grandes volumes de dados e prever comportamentos econômicos. Minha dissertação focou na análise de séries temporais e modelagem econométrica, com aplicações práticas na previsão de indicadores macroeconômicos. Essa formação consolidou meu entendimento de econometria aplicada e métodos quantitativos, permitindo que eu abordasse problemas complexos em diferentes contextos econômicos com rigor matemático e estatístico.
-     
+          Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R  para a análise de dados financeiros e modelagem de séries temporais. Além disso, essa formação resultou em publicações, incluindo um estudo sobre estratégias de hedge no mercado brasileiro em diferentes cenários de taxas de juros. Essa experiência me proporcionou um sólido background acadêmico em modelos quantitativos, focando em econometria e análise de risco.
       - layout: left
         title: UERJ
         caption: 2010 - 2014
