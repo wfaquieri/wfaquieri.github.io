@@ -149,16 +149,16 @@ content:
       - [Hedging Brazilian equities in the era of low interest rates: What has changed?](https://periodicos.fgv.br/rbfin/article/view/81625) (Brazilian Review of Finance)
       - [Can Gaussian factor models of commodity prices capture the financialization phenomenon?](https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117) (The North American Journal of Economics and Finance)
 
-  # - title: Um pouco mais sobre mim
-  #   layout: text
-  #   content: |
-  #     Para além de algoritmos e dados, existe um lado meu que se encanta com:
-  #     - Explorar **trilhas** e descobrir novos caminhos em meio à natureza. 
-  #     - Desafiar limites no **crossfit** e sentir a força do corpo em movimento.
-  #     - Aproveitar a liberdade de uma boa **pedalada**, deixando a mente fluir enquanto as rodas giram.
-  #     - Praticar **yoga** e **meditação**, buscando o equilíbrio entre corpo e mente.
-  #     - Mergulhar em boas **leituras**, onde cada página é uma oportunidade de expandir minha visão de mundo.
-  #     - [Buscar respostas nas reflexões espirituais, que dão sentido à jornada.](https://medium.com/@wfaquieri)
+  - title: Um pouco mais sobre mim
+    layout: text
+    content: |
+      Para além de algoritmos e dados, existe um lado meu que se encanta com:
+      - Explorar **trilhas** e descobrir novos caminhos em meio à natureza. 
+      - Desafiar limites no **crossfit** e sentir a força do corpo em movimento.
+      - Aproveitar a liberdade de uma boa **pedalada**, deixando a mente fluir enquanto as rodas giram.
+      - Praticar **yoga** e **meditação**, buscando o equilíbrio entre corpo e mente.
+      - Mergulhar em boas **leituras**, onde cada página é uma oportunidade de expandir minha visão de mundo.
+      - [Buscar respostas nas reflexões espirituais, que dão sentido à jornada.](https://medium.com/@wfaquieri)
       
 
 # Footer
