@@ -105,17 +105,7 @@ content:
         description: | 
           Durante minha graduação, adquiri conhecimentos em teoria econômica, análise de mercado e políticas públicas, desenvolvendo habilidades analíticas e críticas que aplico até hoje.
   
-  - title: <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        Certificações
-        </div>
-
-        <style>
-        @keyframes moverNome {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(100px); }
-            100% { transform: translateX(0); }
-        }
-        </style>
+  - title: Certificações
     layout: text
     content: |
       **Liderança e Gestão**
@@ -149,9 +139,19 @@ content:
         - Case Studies: Building Web Applications with Shiny in R (DataCamp)
         - Introduction to Tableau (DataCamp)
       
-      **Computação em Nuvem e Desenvolvimento**
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        **Computação em Nuvem e Desenvolvimento**
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
         - Cloud Computing for Everyone (DataCamp)
-        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)
+        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)      
 
 
   - title: Publicações
