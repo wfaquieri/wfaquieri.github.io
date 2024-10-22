@@ -89,19 +89,8 @@ content:
         description: | 
           Durante o curso, desenvolvi uma série de projetos práticos, incluindo algoritmos supervisionados para classificação, engenharia de Machine Learning e processamento de linguagem natural com Python. Também trabalhei em mineração de texto utilizando Stack Elk e desenvolvi redes neurais e modelos de Deep Learning com Tensorflow.
 
-          Outros projetos envolveram a aplicação de algoritmos não-supervisionados para clusterização e a validação desses modelos. Utilizei diversas ferramentas e tecnologias, como: 
-        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        Python, Tensorflow, Jupyter, Elastic Search, Pandas, NLP, Scikit-Learn, redes neurais, AutoML, Dash, SVM, Plot.ly, MLflow e Kedro.
-        </div>
+          Outros projetos envolveram a aplicação de algoritmos não-supervisionados para clusterização e a validação desses modelos. Utilizei diversas ferramentas e tecnologias, como Python, Tensorflow, Jupyter, Elastic Search, Pandas, NLP, Scikit-Learn, redes neurais, AutoML, Dash, SVM, Plot.ly, MLflow e Kedro. 
 
-        <style>
-        @keyframes moverNome {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(100px); }
-            100% { transform: translateX(0); }
-        }
-        </style>
-      
       - layout: left
         border: weak
         title: UERJ
