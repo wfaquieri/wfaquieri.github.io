@@ -108,18 +108,49 @@ content:
   - title: Certificações
     layout: text
     content: |
-      **Liderança e Gestão**
+      
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        <strong>Liderança e Gestão</strong>
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
         - Planejamento Estratégico (Enap)
         - Liderança e Gestão de Equipes (Enap)
         - Introdução à Gestão de Projetos (Enap)
         - Soft Skills: Desenvolvendo Suas Habilidades Comportamentais (Data Science Academy)
       
-      **Governança e Transformação Digital**
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        <strong>Governança e Transformação Digital</strong>
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
         - Governança de Dados (Data Science Academy)
         - Transformação Digital (FGV)
         - Ética em IA (Enap)
 
-      **Inteligência Artificial e Machine Learning**
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        <strong>Inteligência Artificial e Machine Learning</strong>
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
         - Inteligência Artificial Generativa (Enap)
         - Machine Learning em Python e C++ (Data Science Academy)
         - Machine Learning in R: Classification (DataCamp)
@@ -127,7 +158,17 @@ content:
         - Unsupervised Learning in Python (DataCamp)
         - Natural Language Processing in Python (DataCamp)
       
-      **Análise de Dados**
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        <strong>Análise de Dados</strong>
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
         - Intermediate SQL Server (DataCamp)
         - Excel Avançado com VBA, Linguagem Python e SQL (Data Science Academy)
         - Foundations of Functional Programming with purrrr (DataCamp)
@@ -136,7 +177,7 @@ content:
         - Web Scraping in Python (DataCamp)
             
        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        Visualização
+        <strong>Visualização</strong>
         </div>
 
         <style>
