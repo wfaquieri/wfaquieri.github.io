@@ -193,7 +193,7 @@ content:
         - Introduction to Tableau (DataCamp)
       
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        Computação em Nuvem e Desenvolvimento
+        <strong>Computação em Nuvem e Desenvolvimento</strong>
         </div>
 
         <style>
