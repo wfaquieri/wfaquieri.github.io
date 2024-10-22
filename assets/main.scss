@@ -3,3 +3,22 @@
 ---
 
 @import 'modern-resume-theme';
+
+// Animação para mover o nome
+.moving-name {
+  display: inline-block;
+  position: relative;
+  animation: move-name 3s linear infinite;
+}
+
+@keyframes move-name {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(20px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}

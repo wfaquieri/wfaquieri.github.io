@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+<h1><span class="moving-name">Winicius B. Faquieri</span></h1>
