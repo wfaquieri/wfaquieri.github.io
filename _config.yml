@@ -142,6 +142,18 @@ content:
       **Computação em Nuvem e Desenvolvimento**
         - Cloud Computing for Everyone (DataCamp)
         - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)
+        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        Winicius B. Faquieri
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
+
 
   - title: Publicações
     layout: text

@@ -7,4 +7,14 @@
 #
 layout: default
 ---
-<h1><span class="moving-name">Winicius B. Faquieri</span></h1>
+<div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+  Winicius B. Faquieri
+</div>
+
+<style>
+  @keyframes moverNome {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(100px); }
+    100% { transform: translateX(0); }
+  }
+</style>
