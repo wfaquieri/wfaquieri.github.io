@@ -89,7 +89,17 @@ content:
         description: | 
           Durante o curso, desenvolvi uma série de projetos práticos, incluindo algoritmos supervisionados para classificação, engenharia de Machine Learning e processamento de linguagem natural com Python. Também trabalhei em mineração de texto utilizando Stack Elk e desenvolvi redes neurais e modelos de Deep Learning com Tensorflow.
 
-          Outros projetos envolveram a aplicação de algoritmos não-supervisionados para clusterização e a validação desses modelos. Utilizei diversas ferramentas e tecnologias, como Python, Tensorflow, Jupyter, Elastic Search, Pandas, NLP, Scikit-Learn, redes neurais, AutoML, Dash, SVM, Plot.ly, MLflow e Kedro.
+          Outros projetos envolveram a aplicação de algoritmos não-supervisionados para clusterização e a validação desses modelos. Utilizei diversas ferramentas e tecnologias, como <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        Python, Tensorflow, Jupyter, Elastic Search, Pandas, NLP, Scikit-Learn, redes neurais, AutoML, Dash, SVM, Plot.ly, MLflow e Kedro.
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
       
       - layout: left
         border: weak
@@ -127,20 +137,32 @@ content:
         - Unsupervised Learning in Python (DataCamp)
         - Natural Language Processing in Python (DataCamp)
       
-      **Análise de Dados e Visualização**
+      **Análise de Dados**
         - Intermediate SQL Server (DataCamp)
         - Excel Avançado com VBA, Linguagem Python e SQL (Data Science Academy)
         - Foundations of Functional Programming with purrrr (DataCamp)
         - Introduction to Text Analysis in R (DataCamp)
         - String Manipulation with stringr in R (DataCamp)
-        - Web Scraping in Python (DataCamp)        
+        - Web Scraping in Python (DataCamp)
+            
+       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        Visualização
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
         - Power BI para Data Science (Data Science Academy)
         - Dashboards em Shiny II (Curso‑R)
         - Case Studies: Building Web Applications with Shiny in R (DataCamp)
         - Introduction to Tableau (DataCamp)
       
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        **Computação em Nuvem e Desenvolvimento**
+        Computação em Nuvem e Desenvolvimento
         </div>
 
         <style>
