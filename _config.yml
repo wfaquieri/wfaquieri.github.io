@@ -105,8 +105,7 @@ content:
         description: | 
           Durante minha graduação, adquiri conhecimentos em teoria econômica, análise de mercado e políticas públicas, desenvolvendo habilidades analíticas e críticas que aplico até hoje.
   
-  - title: 
-        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+  - title: <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         Certificações
         </div>
 
