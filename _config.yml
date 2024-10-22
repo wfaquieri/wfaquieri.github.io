@@ -105,7 +105,18 @@ content:
         description: | 
           Durante minha graduação, adquiri conhecimentos em teoria econômica, análise de mercado e políticas públicas, desenvolvendo habilidades analíticas e críticas que aplico até hoje.
   
-  - title: Certificações
+  - title: 
+        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        Certificações
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
     layout: text
     content: |
       **Liderança e Gestão**
@@ -142,17 +153,6 @@ content:
       **Computação em Nuvem e Desenvolvimento**
         - Cloud Computing for Everyone (DataCamp)
         - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)
-        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        Winicius B. Faquieri
-        </div>
-
-        <style>
-        @keyframes moverNome {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(100px); }
-            100% { transform: translateX(0); }
-        }
-        </style>
 
 
   - title: Publicações
