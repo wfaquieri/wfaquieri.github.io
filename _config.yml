@@ -110,37 +110,6 @@ content:
     content: |
       
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        <strong>Liderança e Gestão</strong>
-        </div>
-
-        <style>
-        @keyframes moverNome {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(100px); }
-            100% { transform: translateX(0); }
-        }
-        </style>
-        - Planejamento Estratégico (Enap)
-        - Liderança e Gestão de Equipes (Enap)
-        - Introdução à Gestão de Projetos (Enap)
-        - Soft Skills: Desenvolvendo Suas Habilidades Comportamentais (Data Science Academy)
-      
-      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        <strong>Governança e Transformação Digital</strong>
-        </div>
-
-        <style>
-        @keyframes moverNome {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(100px); }
-            100% { transform: translateX(0); }
-        }
-        </style>
-        - Governança de Dados (Data Science Academy)
-        - Transformação Digital (FGV)
-        - Ética em IA (Enap)
-
-      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Inteligência Artificial e Machine Learning</strong>
         </div>
 
@@ -151,12 +120,30 @@ content:
             100% { transform: translateX(0); }
         }
         </style>
-        - Inteligência Artificial Generativa (Enap)
+        
         - Machine Learning em Python e C++ (Data Science Academy)
+        - Deploy de Modelos de Machine Learning
+            - Deploy de Aplicações Preditivas com Streamlit
+            - Amazon SageMaker
+            - Deploy com TensorFlow e TFX
+            - Deploy com PyTorch e Construção de API Para Endpoint
+            - Deploy com MLflow e Databricks
+            - Deploy com KubeFlow e Docker no Azure
+            - Deploy com Spark MLLib e API Para Cluster Hadoop
+            - Deploy com AWS (Amazon Web Services) e Flask
+            - Deploy com GCP (Google Cloud Platform) e Django
+        - Machine Learning e IA em Ambientes Distribuídos
+            - Data Lakehouse Para Processamento Distribuído com Dremio
+            - Data Lakehouse Para Processamento Distribuído com Databricks
+            - Analytics em Enterprise Data Warehouse com Google Big Query
+            - Machine Learning em Larga Escala com Apache Spark
+            - Processamento Distribuído na Nuvem com Amazon EMR (Elastic MapReduce)
+            - Elastic Search em Ambientes Distribuídos
         - Machine Learning in R: Classification (DataCamp)
         - Machine Learning in R: Regression (DataCamp)
         - Unsupervised Learning in Python (DataCamp)
         - Natural Language Processing in Python (DataCamp)
+        - Inteligência Artificial Generativa (Enap)
       
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Análise de Dados</strong>
@@ -204,7 +191,38 @@ content:
         }
         </style>
         - Cloud Computing for Everyone (DataCamp)
-        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)      
+        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)   
+    
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        <strong>Governança e Transformação Digital</strong>
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
+        - Governança de Dados (Data Science Academy)
+        - Transformação Digital (FGV)
+        - Ética em IA (Enap)
+        
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        <strong>Liderança e Gestão</strong>
+        </div>
+
+        <style>
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        </style>
+        - Planejamento Estratégico (Enap)
+        - Liderança e Gestão de Equipes (Enap)
+        - Introdução à Gestão de Projetos (Enap)
+        - Soft Skills: Desenvolvendo Suas Habilidades Comportamentais (Data Science Academy)
 
 
   - title: Publicações
