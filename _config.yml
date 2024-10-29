@@ -47,7 +47,7 @@ content:
         title: FGV IBRE
         link: https://portalibre.fgv.br/
         link_text: https://portalibre.fgv.br/
-        sub_title: Analista de Inteligência de Dados
+        sub_title: Cientista de Dados 
         caption: Maio 2019 - Maio. 2023
         description: | 
           No IBRE, realizei análises de dados utilizando as linguagens <mark>R</mark>, <mark>Python</mark> e <mark>SQL</mark> para gerar insights significativos. Desenvolvi e implementei modelos de <mark>Machine Learning</mark> em projetos ad hoc, aplicando técnicas estatísticas para resolver problemas complexos.
@@ -64,7 +64,7 @@ content:
         sub_title: Assistente de Pesquisa
         caption: Dez. 2017 - Abril. 2019
         description: | 
-          Na EPGE, realizei a coleta e análise de dados econométricos para pesquisas acadêmicas, aplicando métodos quantitativos em projetos voltados para estudos macroeconômicos. Um dos estudos focou em analisar como as receitas dos royalties do petróleo influenciam as despesas públicas em diferentes níveis e seu impacto no bem-estar da população.
+          Na EPGE, realizei a coleta e análise de dados econométricos para pesquisas acadêmicas, aplicando métodos quantitativos em projetos voltados para estudos micro e macroeconômicos. Um dos estudos focou em analisar como as receitas dos royalties do petróleo influenciam as despesas públicas em diferentes níveis e seu impacto no bem-estar da população.
 
           Utilizei ferramentas como <mark>R</mark> e <mark>Stata</mark> para a modelagem estatística, garantindo precisão e relevância nas análises.
 
@@ -230,17 +230,18 @@ content:
     content: |  
       - [Hedging Brazilian equities in the era of low interest rates: What has changed?](https://periodicos.fgv.br/rbfin/article/view/81625) (Brazilian Review of Finance)
       - [Can Gaussian factor models of commodity prices capture the financialization phenomenon?](https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117) (The North American Journal of Economics and Finance)
+      - [Análise do comportamento da volatilidade da taxa de câmbio euro-dólar](https://www.e-publicacoes.uerj.br/cadest/article/view/27738) (Cadernos do IME - Série Estatística)
 
-  - title: Um pouco mais sobre mim
-    layout: text
-    content: |
-      Para além de algoritmos e dados, também me interesso por:
-      - Explorar **trilhas** e descobrir novos caminhos em meio à natureza. 
-      - Desafiar limites no **crossfit** e sentir a força do corpo em movimento.
-      - Aproveitar a liberdade de uma boa **pedalada**, deixando a mente fluir enquanto as rodas giram.
-      - Praticar **yoga** e **meditação**, buscando o equilíbrio entre corpo e mente.
-      - Mergulhar em boas **leituras**, onde cada página é uma oportunidade de expandir minha visão de mundo.
-      - [Buscar respostas nas reflexões espirituais, que dão sentido à jornada.](https://medium.com/@wfaquieri)
+  # - title: Um pouco mais sobre mim
+    # layout: text
+    # content: |
+      # Para além de algoritmos e dados, também me interesso por:
+      # - Explorar **trilhas** e descobrir novos caminhos em meio à natureza. 
+      # - Desafiar limites no **crossfit** e sentir a força do corpo em movimento.
+      # - Aproveitar a liberdade de uma boa **pedalada**, deixando a mente fluir enquanto as rodas giram.
+      # - Praticar **yoga** e **meditação**, buscando o equilíbrio entre corpo e mente.
+      # - Mergulhar em boas **leituras**, onde cada página é uma oportunidade de expandir minha visão de mundo.
+      # - [Buscar respostas nas reflexões espirituais, que dão sentido à jornada.](https://medium.com/@wfaquieri)
       
 
 # Footer
