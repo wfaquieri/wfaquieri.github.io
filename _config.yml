@@ -123,22 +123,12 @@ content:
         </style>
         
         - Machine Learning em Python e C++ (Data Science Academy)
-        - Deploy de Modelos de Machine Learning
-            - Deploy de Aplicações Preditivas com Streamlit
-            - Amazon SageMaker
-            - Deploy com TensorFlow e TFX
-            - Deploy com PyTorch e Construção de API Para Endpoint
-            - Deploy com MLflow e Databricks
-            - Deploy com KubeFlow e Docker no Azure
-            - Deploy com Spark MLLib e API Para Cluster Hadoop
-            - Deploy com AWS (Amazon Web Services) e Flask
-            - Deploy com GCP (Google Cloud Platform) e Django
+        - Deploy com Google Cloud Platform e Django (Data Science Academy)            
         - Machine Learning in R: Classification (DataCamp)
         - Machine Learning in R: Regression (DataCamp)
         - Unsupervised Learning in Python (DataCamp)
         - Natural Language Processing in Python (DataCamp)
-        - Inteligência Artificial Generativa (Enap)
-        
+        - Inteligência Artificial Generativa (Enap)        
         
        
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
@@ -157,14 +147,9 @@ content:
         
         - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)   
         - Introduction to Apache Airflow in Python (DataCamp)
+        - Analytics em Enterprise Data Warehouse com Google Big Query (Data Science Academy)
         - Cloud Computing for Everyone (DataCamp)
-        - Machine Learning e IA em Ambientes Distribuídos (Data Science Academy)
-            - Data Lakehouse Para Processamento Distribuído com Dremio
-            - Data Lakehouse Para Processamento Distribuído com Databricks
-            - Analytics em Enterprise Data Warehouse com Google Big Query
-            - Machine Learning em Larga Escala com Apache Spark
-            - Processamento Distribuído na Nuvem com Amazon EMR (Elastic MapReduce)
-            - Elastic Search em Ambientes Distribuídos
+        
       
       
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
