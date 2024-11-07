@@ -22,12 +22,13 @@ linkedin_username: wfaquieri
 about_title: Resumo
 about_profile_image: images/profile_wbf.png
 about_content: | 
-  Profissional com sólida experiência em Ciência de Dados, atuando em empresas como Red Asset e FGV IBRE, com foco em análise de dados, desenvolvimento de dashboards interativos e implementação de modelos de Machine Learning. Tenho foco em gerar insights estratégicos e melhorar a tomada de decisões por meio de dados. 
+  Profissional com sólida experiência em Ciência de Dados, atuando em empresas como MacroPlan, Red Asset e FGV IBRE, com foco em análise de dados, desenvolvimento de dashboards interativos e implementação de modelos de Machine Learning. Tenho foco em gerar insights estratégicos e melhorar a tomada de decisões por meio de dados. 
 
 content:  
   - title: Experiência Profissional 
     layout: list 
     content:
+            
       - layout: left
         border: weak
         title: Red Asset
@@ -109,6 +110,7 @@ content:
     layout: text
     content: |
       
+      # IA + ML
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Inteligência Artificial e Machine Learning</strong>
         </div>
@@ -132,19 +134,40 @@ content:
             - Deploy com Spark MLLib e API Para Cluster Hadoop
             - Deploy com AWS (Amazon Web Services) e Flask
             - Deploy com GCP (Google Cloud Platform) e Django
-        - Machine Learning e IA em Ambientes Distribuídos
+        - Machine Learning in R: Classification (DataCamp)
+        - Machine Learning in R: Regression (DataCamp)
+        - Unsupervised Learning in Python (DataCamp)
+        - Natural Language Processing in Python (DataCamp)
+        - Inteligência Artificial Generativa (Enap)
+        
+        
+      # Engenharia de Dados  
+      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
+        <strong>Engenharia de Dados</strong>
+        </div>      
+          
+        <style>
+        
+        @keyframes moverNome {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(100px); }
+            100% { transform: translateX(0); }
+        }
+        
+        </style>
+        
+        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)   
+        - Introduction to Apache Airflow in Python (DataCamp)
+        - Cloud Computing for Everyone (DataCamp)
+        - Machine Learning e IA em Ambientes Distribuídos (Data Science Academy)
             - Data Lakehouse Para Processamento Distribuído com Dremio
             - Data Lakehouse Para Processamento Distribuído com Databricks
             - Analytics em Enterprise Data Warehouse com Google Big Query
             - Machine Learning em Larga Escala com Apache Spark
             - Processamento Distribuído na Nuvem com Amazon EMR (Elastic MapReduce)
             - Elastic Search em Ambientes Distribuídos
-        - Machine Learning in R: Classification (DataCamp)
-        - Machine Learning in R: Regression (DataCamp)
-        - Unsupervised Learning in Python (DataCamp)
-        - Natural Language Processing in Python (DataCamp)
-        - Inteligência Artificial Generativa (Enap)
       
+      # Analytics
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Análise de Dados</strong>
         </div>
@@ -162,7 +185,8 @@ content:
         - Introduction to Text Analysis in R (DataCamp)
         - String Manipulation with stringr in R (DataCamp)
         - Web Scraping in Python (DataCamp)
-            
+        
+       # DataViz     
        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Visualização</strong>
         </div>
@@ -179,20 +203,7 @@ content:
         - Case Studies: Building Web Applications with Shiny in R (DataCamp)
         - Introduction to Tableau (DataCamp)
       
-      <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
-        <strong>Computação em Nuvem e Desenvolvimento</strong>
-        </div>
-
-        <style>
-        @keyframes moverNome {
-            0% { transform: translateX(0); }
-            50% { transform: translateX(100px); }
-            100% { transform: translateX(0); }
-        }
-        </style>
-        - Cloud Computing for Everyone (DataCamp)
-        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)   
-    
+      # Governança e Transformação Digital
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Governança e Transformação Digital</strong>
         </div>
@@ -207,7 +218,8 @@ content:
         - Governança de Dados (Data Science Academy)
         - Transformação Digital (FGV)
         - Ética em IA (Enap)
-        
+      
+        # Liderança e Gestão
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Liderança e Gestão</strong>
         </div>
@@ -231,7 +243,7 @@ content:
       - [Hedging Brazilian equities in the era of low interest rates: What has changed?](https://periodicos.fgv.br/rbfin/article/view/81625) (Brazilian Review of Finance)
       - [Can Gaussian factor models of commodity prices capture the financialization phenomenon?](https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117) (The North American Journal of Economics and Finance)
       - [Análise do comportamento da volatilidade da taxa de câmbio euro-dólar](https://www.e-publicacoes.uerj.br/cadest/article/view/27738) (Cadernos do IME - Série Estatística)
-      - [Modelagem de Preços de Opções com Black, Merton e Scholes e Redes Neurais](https://medium.com/@winiciusdatalab/modelagem-de-pre%C3%A7os-de-op%C3%A7%C3%B5es-com-black-scholes-e-redes-neurais-b38463bcc7e7)
+      #- [Modelagem de Preços de Opções com Black, Merton e Scholes e Redes Neurais](https://medium.com/@winiciusdatalab/modelagem-de-pre%C3%A7os-de-op%C3%A7%C3%B5es-com-black-scholes-e-redes-neurais-b38463bcc7e7)
 
   # - title: Um pouco mais sobre mim
     # layout: text
