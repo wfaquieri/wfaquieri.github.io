@@ -110,7 +110,6 @@ content:
     layout: text
     content: |
       
-      # IA + ML
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Inteligência Artificial e Machine Learning</strong>
         </div>
@@ -141,7 +140,7 @@ content:
         - Inteligência Artificial Generativa (Enap)
         
         
-      # Engenharia de Dados  
+       
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Engenharia de Dados</strong>
         </div>      
@@ -167,7 +166,7 @@ content:
             - Processamento Distribuído na Nuvem com Amazon EMR (Elastic MapReduce)
             - Elastic Search em Ambientes Distribuídos
       
-      # Analytics
+      
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Análise de Dados</strong>
         </div>
@@ -186,7 +185,7 @@ content:
         - String Manipulation with stringr in R (DataCamp)
         - Web Scraping in Python (DataCamp)
         
-       # DataViz     
+           
        <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Visualização</strong>
         </div>
@@ -203,7 +202,7 @@ content:
         - Case Studies: Building Web Applications with Shiny in R (DataCamp)
         - Introduction to Tableau (DataCamp)
       
-      # Governança e Transformação Digital
+      
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Governança e Transformação Digital</strong>
         </div>
@@ -219,7 +218,7 @@ content:
         - Transformação Digital (FGV)
         - Ética em IA (Enap)
       
-        # Liderança e Gestão
+        
       <div id="nomeAnimado" style="font-size: 2em; animation: moverNome 5s infinite;">
         <strong>Liderança e Gestão</strong>
         </div>
