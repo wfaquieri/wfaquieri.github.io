@@ -22,7 +22,7 @@ linkedin_username: wfaquieri
 about_title: Resumo
 about_profile_image: images/profile_wbf.png
 about_content: | 
-  Profissional com sólida experiência em Data Science, atuando em empresas como MacroPlan Analytics, Red Asset e FGV IBRE, liderando pessoas e projetos de Advanced Analytics. Tenho foco em gerar insights estratégicos e melhorar a tomada de decisões por meio de dados. 
+  Profissional com sólida experiência em Data Science, atuando em empresas como MacroPlan, NEXA Dados, Red Asset e FGV IBRE, liderando pessoas e projetos de Advanced Analytics. Tenho foco em gerar insights estratégicos e melhorar a tomada de decisões por meio de dados. 
 
 content:  
   - title: Experiência Profissional 
@@ -122,9 +122,9 @@ content:
         }
         </style>
         
-        - Machine Learning em Python e C++ (Data Science Academy)
-        - Machine Learning com R (Curso-R)
-        - Deploy com Google Cloud Platform e Django (Data Science Academy)            
+        - Machine Learning em <mark>Python</mark> e <mark>C++</mark> (Data Science Academy)
+        - Machine Learning com <mark>R</mark> (Curso-R)
+        - Deploy com Google <mark>Cloud Platform</mark> e <mark>Django</mark> (Data Science Academy)            
         - Machine Learning in R: Classification (DataCamp)
         - Machine Learning in R: Regression (DataCamp)
         - Unsupervised Learning in Python (DataCamp)
@@ -146,9 +146,10 @@ content:
         
         </style>
         
-        - Sistema Operacional Linux, Docker e Kubernetes (Data Science Academy)   
-        - Introduction to Apache Airflow in Python (DataCamp)
-        - Analytics em Enterprise Data Warehouse com Google Big Query (Data Science Academy)
+        - Sistema Operacional <mark>Linux</mark>, <mark>Docker</mark> e <mark>Kubernetes</mark> (Data Science Academy)   
+        - Introduction to <mark>Apache Airflow</mark> in Python (DataCamp)
+        - Analytics em Enterprise <mark>Data Warehouse</mark> com <mark>Google Big Query</mark> (Data Science Academy)
+        - Data Warehousing Concepts (DataCamp)
         - Cloud Computing for Everyone (DataCamp)
         
       
@@ -183,9 +184,9 @@ content:
             100% { transform: translateX(0); }
         }
         </style>
-        - Power BI para Data Science (Data Science Academy)
-        - Dashboards em Shiny II (Curso-R)
-        - Case Studies: Building Web Applications with Shiny in R (DataCamp)
+        - <mark>Power BI</mark> para Data Science (Data Science Academy)
+        - Dashboards em <mark>Shiny</mark> II (Curso-R)
+        - Case Studies: Building Web Applications with <mark>Shiny</mark> in R (DataCamp)
         - Introduction to Tableau (DataCamp)
       
       
