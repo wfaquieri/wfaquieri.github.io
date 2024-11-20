@@ -41,7 +41,7 @@ content:
 
           Estudei e apliquei ferramentas de monitoramento para garantir a qualidade dos dados e a observabilidade dos modelos. Também otimizei e mantive dashboards interativos em <mark>R</mark> e <mark>Shiny</mark>, contribuindo para a visualização de KPIs e a tomada de decisões.
 
-          Participei da implementação de modelos de <mark>Machine Learning</mark> em produção, utlizando bibliotecas como <mark>Scikit-learn</mark>, <mark>LightGBM</mark>, <mark>XGBoost</mark>, <mark>FastAPI</mark> e <mark>Plumber</mark>. Também colaborei na otimização de consultas <mark>SQL</mark>, melhorando a eficiência das análises de dados.
+          Participei da implementação de modelos de <mark>Machine Learning</mark> em produção, utlizando a linguagem <mark>Python</mark> e bibliotecas como <mark>Scikit-learn</mark>, <mark>LightGBM</mark>, <mark>XGBoost</mark>, <mark>FastAPI</mark> e <mark>Plumber</mark>. Também colaborei na otimização de consultas <mark>SQL</mark>, melhorando a eficiência das análises de dados.
         
       - layout: left
         border: weak
@@ -98,13 +98,13 @@ content:
         caption: 2016 - 2017
         sub_title: Mestrado em Economia Aplicada
         description: | 
-          Durante o mestrado, aprofundei-me em técnicas quantitativas avançadas aplicadas à economia, com ênfase em econometria e modelos matemáticos. Desenvolvi habilidades analíticas utilizando softwares como R  para a análise de dados financeiros e modelagem de séries temporais. Além disso, essa formação resultou em publicações, incluindo um estudo sobre estratégias de hedge no mercado brasileiro em diferentes cenários de taxas de juros. Essa experiência me proporcionou um sólido background acadêmico em modelos quantitativos, focando em econometria e análise de risco.
+          Durante meu mestrado em Economia Aplicada, com ênfase em Finanças Quantitativas e Análise de Risco, adquiri uma sólida formação em modelagem financeira e análise de séries temporais, utilizando o software R. Através de minhas publicações, aprofundei-me na aplicação de modelos estocásticos para a análise de risco e estratégias de hedging, além de explorar a relevância de diferentes variáveis financeiras, como a taxa de juros e a volatilidade, para a previsão de preços e a gestão de portfólios.
       - layout: left
         title: UERJ
         caption: 2010 - 2014
         sub_title: Bacharelado em Ciências Econômicas
         description: | 
-          Durante minha graduação, adquiri conhecimentos em teoria econômica, análise de mercado e políticas públicas, desenvolvendo habilidades analíticas e críticas que aplico até hoje.
+          Durante minha graduação, desenvolvi uma base sólida em análise econômica utilizando ferramentas matemáticas e estatísticas. Aprofundei-me em modelos econométricos, técnicas de análise de dados e tópicos como cálculo diferencial e otimização, além de explorar os conceitos centrais de economia monetária, como políticas monetárias, inflação e taxa de juros, o que me permitiu aplicar esses conceitos na resolução de problemas econômicos complexos. Além disso, tive a oportunidade de trabalhar com softwares de análise estatística, como R, Stata e Excel.
   
   - title: Certificações
     layout: text
