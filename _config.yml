@@ -28,6 +28,16 @@ content:
   - title: Experiência Profissional 
     layout: list 
     content:
+    
+       - layout: left
+        border: weak
+        title: Macroplan Analytics
+        link: https://www.analytics.macroplan.com.br/
+        link_text: https://www.analytics.macroplan.com.br/
+        sub_title: Cientista de Dados Pleno
+        caption: Novembro 2024 - Atual
+        description: | 
+          Na Macroplan, exerci a liderança técnica na implementação de soluções para entrega de indicadores com <mark>SQL</mark> e <mark>Teradata</mark>. Fui responsável pelo desenvolvimento de procedures eficientes e pela capacitação da equipe, além de integrar <mark>Python</mark> e <mark>R</mark> para análise de dados. Gerenciei o versionamento usando <mark>Git</mark> e acompanhei o andamento dos projetos no <mark>Jira</mark>.
             
       - layout: left
         border: weak
@@ -75,7 +85,7 @@ content:
         link: https://portal.sulamericaseguros.com.br/home.htm
         link_text: https://portal.sulamericaseguros.com.br/home.htm
         sub_title: Estágio
-        caption: Dez. 2017 - Abril. 2019
+        caption: Mar. 2013 - Dez. 2014
         description: | 
           Apoiei na análise de dados financeiros e no gerenciamento de fluxo de caixa, contribuindo para a eficiência das operações.
 
