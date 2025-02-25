@@ -40,7 +40,7 @@ content:
           - Liderança técnica e capacitação da equipe;
           - Criar procedures robustas em <mark>SQL</mark> e <mark>Teradata</mark> para cálculo preciso de indicadores, otimizando o desempenho do banco de dados;
           - Projetar e implementar <mark>pipelines de ETL</mark> com <mark>Python</mark> e <mark>Apache Airflow</mark>, automatizando o processamento de dados brutos no Azure Blob Storage, realizando transformações de dados e carregando indicadores no MongoDB; 
-          - Desenvolver e gerenciar projetos de inteligência artificial utilizando <mark>Apache Spark</mark> para processamento de grandes volumes de dados, implementando algoritmos de machine learning e análise preditiva, além de utilizar o MLflow para o rastreamento e gestão de experimentos de machine learning;  
+          - Desenvolver e gerenciar projetos de inteligência artificial utilizando <mark>Apache Spark</mark> para processamento de grandes volumes de dados, implementando algoritmos de machine learning e análise preditiva, além de utilizar o <mark>MLflow</mark> para o rastreamento e gestão de experimentos de machine learning;  
           - Implementar a containerização de aplicações e ambientes de desenvolvimento utilizando <mark>Docker</mark>, garantindo portabilidade, consistência e facilidade de implantação em diferentes ambientes.  
       - layout: left
         border: weak
