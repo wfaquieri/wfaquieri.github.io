@@ -36,11 +36,12 @@ content:
         link_text: https://www.analytics.macroplan.com.br/
         sub_title: Cientista de Dados Pleno
         caption: Novembro 2024 - Atual
-        description: | 
-          Na Macroplan, exerci a liderança técnica na implementação de soluções para entrega de indicadores com <mark>SQL</mark> e <mark>Teradata</mark>. Fui responsável pelo 
-          desenvolvimento de procedures eficientes e pela capacitação da equipe, além de integrar <mark>Python</mark> e <mark>R</mark> para análise de dados. Gerenciei o 
-          versionamento usando <mark>Git</mark> e acompanhei o andamento dos projetos no <mark>Jira</mark>.
-            
+        description: |           
+          - Liderança técnica e capacitação da equipe;
+          - Criar procedures robustas em <mark>SQL</mark> e <mark>Teradata</mark> para cálculo preciso de indicadores, otimizando o desempenho do banco de dados;
+          - Projetar e implementar <mark>pipelines de ETL</mark> com <mark>Python</mark> e <mark>Apache Airflow</mark>, automatizando o processamento de dados brutos no Azure Blob Storage, realizando transformações de dados e carregando indicadores no MongoDB; 
+          - Desenvolver e gerenciar projetos de inteligência artificial utilizando <mark>Apache Spark</mark> para processamento de grandes volumes de dados, implementando algoritmos de machine learning e análise preditiva, além de utilizar o MLflow para o rastreamento e gestão de experimentos de machine learning;  
+          - Implementar a containerização de aplicações e ambientes de desenvolvimento utilizando <mark>Docker</mark>, garantindo portabilidade, consistência e facilidade de implantação em diferentes ambientes.  
       - layout: left
         border: weak
         title: Red Asset
