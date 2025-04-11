@@ -22,8 +22,8 @@ linkedin_username: wfaquieri
 about_title: Resumo
 about_profile_image: images/profile_wbf.png
 about_content: | 
-  Graduado em Economia pela Universidade do Estado do Rio de Janeiro (UERJ, 2014), com mestrado em Finanças Quantitativas e Análise de Risco pela mesma instituição (2017), e pós-graduação em Inteligência Artificial, Machine Learning e Deep Learning pelo Instituto INFNET (2023). Possui experiência acadêmica e profissional sólida, com ênfase em análise de risco, econometria e aplicações de machine learning em finanças. Entre 2017 e 2019, atuou como Assistente de Pesquisa na EPGE/FGV, com foco em microeconomia aplicada. Em seguida, foi Analista de Ciência de Dados no FGV IBRE (2019-2023), liderando projetos de Advanced Analytics. Atuou como Cientista de Dados Pleno na equipe de P&D na Red Asset (2023-2024), e atualmente é Cientista de Dados Consultor na MacroPlan. Possui experiência e interesse em análise de risco, finanças empíricas, séries temporais, econometria, análise de dados e no uso de machine learning para aplicações financeiras. 
-
+  Graduado em Economia pela Universidade do Estado do Rio de Janeiro (UERJ, 2014), com mestrado em Finanças Quantitativas e Análise de Risco pela mesma instituição (2017), e pós-graduação em Inteligência Artificial, Machine Learning e Deep Learning pelo Instituto INFNET (2023).
+  Entre 2017 e 2019, atuou como Assistente de Pesquisa na EPGE/FGV, com foco em microeconomia aplicada. Em seguida, foi Analista de Ciência de Dados no FGV IBRE (2019-2023), liderando projetos de Advanced Analytics. Atuou como Cientista de Dados Pleno na equipe de P&D na Red Asset (2023-2024), e atualmente é Líder Pleno em Ciência de Dados na MacroPlan.
 content:  
   - title: Experiência Profissional 
     layout: list 
@@ -34,14 +34,15 @@ content:
         title: Macroplan Analytics
         link: https://www.analytics.macroplan.com.br/
         link_text: https://www.analytics.macroplan.com.br/
-        sub_title: Cientista de Dados Pleno
+        sub_title: Líder Pleno em Ciência de Dados
         caption: Novembro 2024 - Atual
         description: |           
-          - Liderança técnica e capacitação da equipe;
-          - Criar procedures robustas em <mark>SQL</mark> e <mark>Teradata</mark> para cálculo preciso de indicadores, otimizando o desempenho do banco de dados;
-          - Projetar e implementar <mark>pipelines de ETL</mark> com <mark>Python</mark> e <mark>Apache Airflow</mark>, automatizando o processamento de dados brutos no Azure Blob Storage, realizando transformações de dados e carregando indicadores no MongoDB; 
-          - Desenvolver e gerenciar projetos de inteligência artificial utilizando <mark>Apache Spark</mark> para processamento de grandes volumes de dados, implementando algoritmos de machine learning e análise preditiva, além de utilizar o <mark>MLflow</mark> para o rastreamento e gestão de experimentos de machine learning;  
-          - Implementar a containerização de aplicações e ambientes de desenvolvimento utilizando <mark>Docker</mark>, garantindo portabilidade, consistência e facilidade de implantação em diferentes ambientes.  
+          - Liderança técnica da equipe, promovendo capacitação e boas práticas em ciência de dados e engenharia de dados;
+          - Coordenação de projetos estratégicos de Data Analytics, garantindo a entrega de soluções eficazes e escaláveis;
+          - Desenvolvimento e otimização de procedures SQL e Teradata, assegurando o cálculo preciso de indicadores e a melhoria do desempenho do banco de dados;
+          - Projeto e implementação de pipelines de ETL com Python e Apache Airflow, automatizando o processamento de dados armazenados no Azure Blob Storage e carregando indicadores no MongoDB;
+          - Aplicação de Apache Spark para o processamento de grandes volumes de dados, modelagem preditiva e implementação de algoritmos de machine learning, com rastreamento e gestão de experimentos via MLflow;
+          - Implementação e gerenciamento da containerização de aplicações com Docker, garantindo portabilidade, consistência e facilidade de implantação em diferentes ambientes.
       - layout: left
         border: weak
         title: Red Asset
@@ -78,10 +79,8 @@ content:
         sub_title: Assistente de Pesquisa
         caption: Dez. 2017 - Abril. 2019
         description: | 
-          Na EPGE, realizei a coleta e análise de dados econométricos para pesquisas acadêmicas, aplicando métodos quantitativos em projetos voltados para estudos micro e macroeconômicos. Um dos estudos focou em analisar como as receitas dos royalties do petróleo influenciam as despesas públicas em diferentes níveis e seu impacto no bem-estar da população.
-
-          Utilizei ferramentas como <mark>R</mark> e <mark>Stata</mark> para a modelagem estatística, garantindo precisão e relevância nas análises.
-
+          Atuei em projetos de pesquisa em micro e macroeconomia, com foco na análise econométrica dos efeitos fiscais dos royalties do petróleo sobre o gasto público e o bem-estar municipal. Realizei coleta e tratamento de microdados (RAIS, ANP, FINBRA, entre outros) e estimativas de modelos com dados em painel (efeitos fixos), utilizando R, Stata e Excel.
+      
       - layout: left
         # border: weak
         title: SulAmérica
