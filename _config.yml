@@ -9,10 +9,9 @@ version: 2
 name: Winicius B. Faquieri
 title: Ciência de Dados | Engenharia de ML
 email: wfaquieri@gmail.com
-website: https://wfaquieri.github.io/
 
 # Dark Mode (true/false/never)
-# darkmode: false
+darkmode: true
 
 # Social links
 github_username:  wfaquieri
