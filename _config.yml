@@ -42,12 +42,15 @@ content:
         sub_title: Líder Pleno em Ciência de Dados
         caption: Novembro 2024 - Atual
         description: |           
-          - Liderança técnica da equipe, promovendo capacitação e boas práticas em ciência de dados e engenharia de dados;
-          - Coordenação de projetos estratégicos de Data Analytics, garantindo a entrega de soluções eficazes e escaláveis;
-          - Desenvolvimento e otimização de procedures SQL e Teradata, assegurando o cálculo preciso de indicadores e a melhoria do desempenho do banco de dados;
-          - Projeto e implementação de pipelines de ETL com Python e Apache Airflow, automatizando o processamento de dados armazenados no Azure Blob Storage e carregando indicadores no MongoDB;
-          - Aplicação de Apache Spark para o processamento de grandes volumes de dados, modelagem preditiva e implementação de algoritmos de machine learning, com rastreamento e gestão de experimentos via MLflow;
-          - Implementação e gerenciamento da containerização de aplicações com Docker, garantindo portabilidade, consistência e facilidade de implantação em diferentes ambientes.
+          -Liderança técnica da equipe, promovendo treinamentos e disseminando boas práticas em ciência de dados e engenharia de dados;
+          -Coordenação de projetos de Data Analytics, assegurando a entrega de soluções eficazes, escaláveis e orientadas por dados;          
+          -Concepção e implementação de uma arquitetura escalável de Data Lake no Azure Synapse Analytics, utilizando uma abordagem em múltiplas camadas (zonas Bronze, Silver e Gold) para garantir qualidade, governança e acessibilidade dos dados voltadas a Business Intelligence e análises avançadas;          
+          -Desenvolvimento e otimização de procedures SQL e Teradata, garantindo cálculos precisos de indicadores e melhoria do desempenho dos bancos de dados;         
+          -Desenho e implementação de pipelines ETL/ELT com Python e Apache Airflow, automatizando o processamento de dados armazenados no Azure Blob Storage e o carregamento de indicadores no MongoDB;         
+          -Implantação e gerenciamento da conteinerização de aplicações com Docker, assegurando portabilidade, consistência e facilidade de implantação em diferentes ambientes;          
+          -Desenvolvimento de soluções de clusterização semântica, utilizando modelos de embeddings da OpenAI combinados com HDBSCAN e Python, possibilitando análises de texto avançadas e geração de insights;          
+          -Aplicação de Modelos de Linguagem de Grande Escala (LLMs) para o desenvolvimento de soluções corporativas inovadoras.
+          
       - layout: left
         border: weak
         title: Red Asset
