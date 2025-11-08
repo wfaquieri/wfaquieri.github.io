@@ -96,6 +96,34 @@ content:
         description: | 
           Apoiei na análise de dados financeiros e no gerenciamento de fluxo de caixa, contribuindo para a eficiência das operações.
 
+  - title: Palestras e Atividades Acadêmicas
+    layout: list
+    content:
+
+      - layout: left
+        border: weak
+        title: 4ª Semana Estadual do Planejamento, Orçamento e Gestão (SEPOG-PB)
+        link: https://www.instagram.com/p/DMeOhQpscjM/
+        sub_title: Palestrante Convidado
+        caption: Outubro 2025 | João Pessoa (PB)
+        description: |
+          Atuei como palestrante convidado no painel **“Aprimoramento das Políticas Públicas com o uso de Inteligência Artificial”**, representando a Macroplan Consultoria e Analytics. 
+          Durante a palestra (3h de duração), destaquei como a IA pode apoiar políticas públicas quando aliada a:
+            - Dados de qualidade; 
+            - Adaptação ao contexto local; 
+            - Capacitação de servidores.
+          
+          O evento reuniu gestores públicos e especialistas em inovação governamental para discutir ética, transparência e proteção de dados no uso de IA.  
+          Foi uma excelente oportunidade de trocar experiências e contribuir para o avanço da transformação digital no setor público.
+
+      - layout: left
+        border: weak
+        title: Instituto Nacional de Matemática Pura e Aplicada (IMPA)
+        sub_title: Apresentação de Dissertação – Conferência *Research in Options*
+        caption: Novembro 2017 | Rio de Janeiro (RJ)
+        description: |
+          Apresentei minha dissertação de mestrado sobre **modelos estocásticos aplicados a finanças**, destacando a relevância da variável “conveniência” na precificação de commodities no contexto da financeirização.
+
   - title: Educação 
     layout: list 
     content:
